@@ -1,0 +1,20 @@
+/* TUM 品牌 token，取自 .claude/skills/tum-design */
+:root {
+  --tum-blue:        #0065BD;
+  --tum-blue-dark:   #005293;
+  --tum-blue-darker: #003359;
+  --tum-blue-medium: #64A0C8;
+  --tum-blue-light:  #98C6EA;
+  --tum-green:  #A2AD00;
+  --tum-orange: #E37222;
+  --tum-ivory-light: #EEECE1;
+  --tum-gray-5:  #F2F2F2;
+  --tum-gray-50: #808080;
+  --tum-black: #000000;
+  --tum-white: #FFFFFF;
+  --font-sans: "TUM Neue Helvetica", "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif;
+  --font-mono: "Courier New", Courier, monospace;
+}
+body { font-family: var(--font-sans); color: var(--tum-black); margin: 0; background: var(--tum-white); }
+h1, h2, h3 { color: var(--tum-blue); margin: 0 0 .3em; }
+.mono { font-family: var(--font-mono); }
