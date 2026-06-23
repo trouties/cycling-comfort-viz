@@ -6,13 +6,15 @@ const COMFORT_LEGEND = [
 ];
 
 let map, layerControl, charts = [];
-const current = { points: null, segments: null };
+const current = { points: null, segments: null, surface: null };
 
 async function loadJSON(path) {
   const r = await fetch(path);
   if (!r.ok) throw new Error(`${path}: ${r.status}`);
   return r.json();
 }
+
+async function loadJSONopt(path) { try { return await loadJSON(path); } catch { return null; } }
 
 function initMap() {
   const m = L.map("map").setView([48.1446, 11.5598], 13);
@@ -51,6 +53,21 @@ function segmentsLayer(gj) {
         `<b>Segment ${p.bin_id} (50 m)</b><br>` +
         `median a_w: ${p.a_w_median == null ? "—" : p.a_w_median.toFixed(3)} m/s²<br>` +
         `comfort: ${p.comfort ?? "—"}<br>windows: ${p.n}`);
+    },
+  });
+}
+
+function surfaceLayer(gj) {
+  return L.geoJSON(gj, {
+    style: (f) => ({ color: f.properties.surface_color, weight: 6, opacity: 0.85,
+                     dashArray: f.properties.snap_far ? "4 6" : null }),
+    onEachFeature: (f, lyr) => {
+      const p = f.properties;
+      lyr.bindPopup(
+        `<b>OSM surface: ${p.surface ?? "unknown"}</b> (${p.roughness})<br>` +
+        `${p.osm_name ? p.osm_name + "<br>" : ""}` +
+        `measured a_w: ${p.a_w_median == null ? "—" : p.a_w_median.toFixed(3)} m/s² (comfort ${p.comfort ?? "—"})<br>` +
+        `snap: ${p.snap_dist_m} m${p.snap_far ? " ⚠far" : ""}`);
     },
   });
 }
@@ -117,17 +134,20 @@ function renderCharts(ts) {
   ], { yT: { display: false }, yH: { display: false }, yP: { display: false }, yG: { display: false } });
 }
 
-function showSession(track, segments, ts, meta) {
-  for (const k of ["points", "segments"]) {
+function showSession(track, segments, snapped, ts, meta) {
+  for (const k of ["points", "segments", "surface"]) {
     if (current[k]) { map.removeLayer(current[k]); current[k] = null; }
   }
   if (layerControl) { map.removeControl(layerControl); layerControl = null; }
   current.points = pointsLayer(track);
   current.segments = segmentsLayer(segments);
   current.segments.addTo(map);   // 默认显段层
-  layerControl = L.control.layers(null, {
-    "Segments (50 m)": current.segments, "Points (per-window)": current.points,
-  }, { collapsed: false }).addTo(map);
+  const overlays = { "Segments (50 m)": current.segments, "Points (per-window)": current.points };
+  if (snapped) {
+    current.surface = surfaceLayer(snapped);   // 默认不 addTo(map),仅入控件
+    overlays["OSM surface"] = current.surface;
+  }
+  layerControl = L.control.layers(null, overlays, { collapsed: false }).addTo(map);
   let b = current.segments.getBounds();
   if (!b.isValid()) b = current.points.getBounds();
   if (b.isValid()) map.fitBounds(b.pad(0.3));
@@ -136,11 +156,12 @@ function showSession(track, segments, ts, meta) {
 
 async function loadSession(sess) {
   const base = `data/${sess}`;
-  const [track, segments, ts, meta] = await Promise.all([
+  const [track, segments, snapped, ts, meta] = await Promise.all([
     loadJSON(`${base}/track.geojson`), loadJSON(`${base}/segments.geojson`),
+    loadJSONopt(`${base}/snapped.geojson`),
     loadJSON(`${base}/timeseries.json`), loadJSON(`${base}/meta.json`),
   ]);
-  showSession(track, segments, ts, meta);
+  showSession(track, segments, snapped, ts, meta);
 }
 
 function buildSwitcher(sessions, onChange) {

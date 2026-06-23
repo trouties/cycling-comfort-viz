@@ -1,0 +1,1 @@
+{"by_surface": {"asphalt": {"n": 37, "roughness": "smooth", "a_w_median": 0.44008505703126816, "a_w_mean": 0.49727574802262275}, "unknown": {"n": 2, "roughness": "unknown", "a_w_median": 0.5107012867661225, "a_w_mean": 0.5107012867661225}}, "spearman": null, "n_segments": 39, "n_known": 37}
