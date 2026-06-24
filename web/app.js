@@ -75,7 +75,7 @@ function surfaceLayer(gj) {
 function addLegend(m) {
   const ctrl = L.control({ position: "bottomright" });
   ctrl.onAdd = () => {
-    const d = L.DomUtil.create("div", "panel legend");
+    const d = L.DomUtil.create("div", "legend");
     d.innerHTML = "<b>Comfort — vertical Wk a_w (ISO 2631-1)</b><br>" +
       COMFORT_LEGEND.map(([c, t]) => `<i style="background:${c}"></i>${t}`).join("<br>") +
       `<div class="legend-note">ISO 2631-1 reaction scale on frame-mounted vertical Wk a_w · ` +
@@ -85,15 +85,34 @@ function addLegend(m) {
   ctrl.addTo(m);
 }
 
+function fmtNum(v, d) {
+  if (v == null || Number.isNaN(v)) return "—";
+  return (Math.round(v * 10 ** d) / 10 ** d).toString();
+}
+
+// 环境卡片:该趟均值(大字)+ min–max 区间(小字);读 env_stats,缺失回退 latest 单值。
+// gas 是 BME680 预热斜坡(电阻上升),非空气质量 → 区间后附安静后缀,完整说明见 Air sensor 图注。
 function renderCards(meta) {
-  const L_ = meta.latest || {};
-  const cards = [
-    ["Temp", L_.envT, "°C"], ["Humidity", L_.hum, "%"],
-    ["Pressure", L_.press, "hPa"], ["Gas", L_.gas, "kΩ"],
+  const stats = meta.env_stats || null;
+  const latest = meta.latest || {};
+  const spec = [   // [标签, 键, 单位, 小数位]
+    ["Temp", "envT", "°C", 1], ["Humidity", "hum", "%", 0],
+    ["Pressure", "press", "hPa", 0], ["Gas", "gas", "kΩ", 0],
   ];
-  document.getElementById("cards").innerHTML = cards.map(([lbl, v, u]) =>
-    `<div class="card"><div class="val">${v == null ? "—" : v}</div>` +
-    `<div class="lbl">${lbl} ${u}</div></div>`).join("");
+  document.getElementById("cards").innerHTML = spec.map(([lbl, key, u, d]) => {
+    const s = stats && stats[key];
+    const mean = s ? s.mean : latest[key];          // 优先 env_stats 均值,回退 latest
+    const empty = mean == null || Number.isNaN(mean);
+    let sub = "";
+    if (s && s.min != null && s.max != null) {
+      const lo = fmtNum(s.min, d), hi = fmtNum(s.max, d);
+      sub = lo === hi ? "" : `${lo}–${hi}`;          // 该分辨率下恒定 → 不显冗余区间
+    }
+    if (key === "gas" && !empty) sub = sub ? `${sub} · warming up` : "warming up";
+    return `<div class="card"><div class="val${empty ? " empty" : ""}">${fmtNum(mean, d)}</div>` +
+      `<div class="card-range">${sub}</div>` +
+      `<div class="lbl">${lbl} ${u}</div></div>`;
+  }).join("");
 }
 
 function renderMeta(meta) {
@@ -126,12 +145,18 @@ function renderCharts(ts) {
     { label: "a_w (m/s²)", data: ts.a_w, borderColor: "#d73027", yAxisID: "y", borderWidth: 1.5 },
     { label: "impacts", data: ts.vib, borderColor: "#0065BD", yAxisID: "y2", borderWidth: 1.5 },
   ]);
+  // 温湿双轴(均可见):Temp 左轴(TUM orange) / Humidity 右轴(TUM blue);press 移出(太平,仅卡片)。
   lineChart("chart-env", labels, [
     { label: "Temp °C", data: ts.envT, borderColor: "#E37222", borderWidth: 1.5, yAxisID: "yT" },
-    { label: "Hum %", data: ts.hum, borderColor: "#0065BD", borderWidth: 1.5, yAxisID: "yH" },
-    { label: "Press hPa", data: ts.press, borderColor: "#A2AD00", borderWidth: 1.5, yAxisID: "yP" },
+    { label: "Humidity %", data: ts.hum, borderColor: "#0065BD", borderWidth: 1.5, yAxisID: "yH" },
+  ], {
+    yT: { position: "left", title: { display: true, text: "°C" } },
+    yH: { position: "right", grid: { drawOnChartArea: false }, title: { display: true, text: "%" } },
+  });
+  // gas:BME680 预热斜坡(电阻上升),单序列单独图;非空气质量,说明见图下注记。
+  lineChart("chart-gas", labels, [
     { label: "Gas kΩ", data: ts.gas, borderColor: "#808080", borderWidth: 1.5, yAxisID: "yG" },
-  ], { yT: { display: false }, yH: { display: false }, yP: { display: false }, yG: { display: false } });
+  ], { yG: { position: "left", title: { display: true, text: "kΩ" } } });
 }
 
 function showSession(track, segments, snapped, ts, meta) {
@@ -165,19 +190,33 @@ async function loadSession(sess) {
 }
 
 function buildSwitcher(sessions, onChange) {
-  const sel = document.createElement("select");
-  sel.id = "session-select";
-  sessions.forEach((s) => {
-    const o = document.createElement("option");
-    o.value = s.session; o.textContent = s.label; sel.appendChild(o);
-  });
-  sel.addEventListener("change", () => onChange(sel.value));
   const el = document.getElementById("switcher");
-  el.innerHTML = "<span>Ride:</span>";
-  el.appendChild(sel);
+  el.innerHTML = '<span class="eyebrow">Ride</span>';
+  const tabs = document.createElement("div");
+  tabs.className = "tabs";
+  sessions.forEach((s, i) => {
+    const [id, sub] = s.label.split(" · ");   // "0003 · 20:37" → id + 时刻
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "tab" + (i === 0 ? " active" : "");
+    b.innerHTML = `<span class="tab-id">${id}</span><span class="tab-sub">${sub ?? ""}</span>`;
+    b.addEventListener("click", () => {
+      tabs.querySelectorAll(".tab").forEach((t) => t.classList.remove("active"));
+      b.classList.add("active");
+      onChange(s.session);
+    });
+    tabs.appendChild(b);
+  });
+  el.appendChild(tabs);
 }
 
 (async function main() {
+  // 图表 TUM 化:单字族 + 淡发丝网格 + 中性文字(减 chartjunk)
+  Chart.defaults.font.family = getComputedStyle(document.body).fontFamily;
+  Chart.defaults.font.size = 11;
+  Chart.defaults.color = "#555";
+  Chart.defaults.borderColor = "#ededed";
+
   map = initMap();
   addLegend(map);
   try {

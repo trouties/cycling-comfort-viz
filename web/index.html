@@ -10,17 +10,27 @@
 </head>
 <body>
   <header class="topbar">
-    <img src="assets/tum-logo-blue.svg" alt="TUM" class="logo">
-    <h1>Cycling Comfort &amp; Road Damage · Group 18</h1>
-    <div id="switcher" class="switcher"></div>
+    <div class="brand">
+      <span class="eyebrow">TUM · Geo Sensor Networks &amp; IoT · Group 18</span>
+      <h1>Cycling comfort &amp; road damage</h1>
+    </div>
+    <img src="assets/tum-logo-blue.svg" alt="Technische Universität München" class="logo">
   </header>
+  <nav class="toolbar" id="switcher"></nav>
   <main class="layout">
     <div id="map"></div>
     <aside class="sidebar">
-      <section class="cards" id="cards"></section>
-      <section class="panel"><h3>Vibration &amp; Comfort</h3><canvas id="chart-vib"></canvas></section>
-      <section class="panel"><h3>Environment</h3><canvas id="chart-env"></canvas></section>
-      <section class="panel meta" id="meta"></section>
+      <section class="block">
+        <h2>Ride conditions</h2>
+        <div class="readout" id="cards"></div>
+      </section>
+      <section class="block"><h2>Vibration &amp; comfort</h2><canvas id="chart-vib"></canvas></section>
+      <section class="block"><h2>Temperature &amp; humidity</h2><canvas id="chart-env"></canvas></section>
+      <section class="block"><h2>Air sensor</h2><canvas id="chart-gas"></canvas>
+        <p class="chart-note">BME680 gas resistance during sensor warmup — rising means stabilizing, not calibrated air quality.</p>
+      </section>
+      <section class="block meta" id="meta"></section>
+      <footer class="brandfoot">Group 18 (TUM) · Innerer Radlring baseline · ISO 2631-1 vertical Wₖ a_w</footer>
     </aside>
   </main>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>

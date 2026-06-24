@@ -14,6 +14,13 @@
   --tum-white: #FFFFFF;
   --font-sans: "TUM Neue Helvetica", "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif;
   --font-mono: "Courier New", Courier, monospace;
+  /* 发丝线 + 4 档字号(忠于 TUM 25/18/14/11) + 统一内边距 */
+  --rule:      #E3E3E3;
+  --fs-num:    25px;
+  --fs-title:  18px;
+  --fs-body:   14px;
+  --fs-cap:    11px;
+  --pad:       20px;
 }
 body { font-family: var(--font-sans); color: var(--tum-black); margin: 0; background: var(--tum-white); }
 h1, h2, h3 { color: var(--tum-blue); margin: 0 0 .3em; }
