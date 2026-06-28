@@ -1,0 +1,2721 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5130218,
+      48.1568555
+     ],
+     [
+      11.5133917,
+      48.1569628
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 0,
+    "a_w_median": 4.05,
+    "n": 8,
+    "crest_max": 3.26,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "rough",
+    "surf_conf": 0.606,
+    "surf_n": 94
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5138508,
+      48.1570022
+     ],
+     [
+      11.5142332,
+      48.1570438
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 1,
+    "a_w_median": 6.388,
+    "n": 4,
+    "crest_max": 3.8,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
+    "surf_n": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5143167,
+      48.157074
+     ],
+     [
+      11.5143787,
+      48.1574288
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 2,
+    "a_w_median": 1.3735,
+    "n": 5,
+    "crest_max": 4.41,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 0.9,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5143928,
+      48.157533
+     ],
+     [
+      11.5143832,
+      48.1578738
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 3,
+    "a_w_median": 1.1812,
+    "n": 4,
+    "crest_max": 3.73,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5143607,
+      48.158223
+     ],
+     [
+      11.5144868,
+      48.1583603
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 4,
+    "a_w_median": 1.2003,
+    "n": 3,
+    "crest_max": 5.24,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5146413,
+      48.1583905
+     ],
+     [
+      11.5147948,
+      48.1584095
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 5,
+    "a_w_median": 0.9253,
+    "n": 2,
+    "crest_max": 3.42,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5151987,
+      48.1584402
+     ],
+     [
+      11.5158098,
+      48.1584687
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 6,
+    "a_w_median": 0.7535,
+    "n": 4,
+    "crest_max": 3.97,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5159878,
+      48.1584768
+     ],
+     [
+      11.5161702,
+      48.1584837
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 7,
+    "a_w_median": 1.2632,
+    "n": 2,
+    "crest_max": 3.94,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5167282,
+      48.1585165
+     ],
+     [
+      11.5170988,
+      48.158558
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 8,
+    "a_w_median": 1.1495,
+    "n": 3,
+    "crest_max": 4.71,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5173087,
+      48.1585682
+     ],
+     [
+      11.5177187,
+      48.1586007
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 9,
+    "a_w_median": 1.5676,
+    "n": 3,
+    "crest_max": 4.33,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5179258,
+      48.1586123
+     ],
+     [
+      11.518331,
+      48.1586107
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 10,
+    "a_w_median": 0.6838,
+    "n": 3,
+    "crest_max": 3.91,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5185385,
+      48.1586117
+     ],
+     [
+      11.519096,
+      48.158617
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 11,
+    "a_w_median": 0.8819,
+    "n": 4,
+    "crest_max": 4.97,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5197355,
+      48.1586343
+     ],
+     [
+      11.5197355,
+      48.1586343
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 12,
+    "a_w_median": 0.9484,
+    "n": 1,
+    "crest_max": 3.28,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5199037,
+      48.1586438
+     ],
+     [
+      11.5204298,
+      48.158668
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 13,
+    "a_w_median": 0.935,
+    "n": 4,
+    "crest_max": 2.85,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5206052,
+      48.1586633
+     ],
+     [
+      11.521104,
+      48.1586723
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 14,
+    "a_w_median": 0.9433,
+    "n": 4,
+    "crest_max": 3.29,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5212912,
+      48.158677
+     ],
+     [
+      11.521869,
+      48.1587128
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 15,
+    "a_w_median": 0.7511,
+    "n": 4,
+    "crest_max": 5.02,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5223058,
+      48.1587267
+     ],
+     [
+      11.5224988,
+      48.1587255
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 16,
+    "a_w_median": 0.7737,
+    "n": 2,
+    "crest_max": 2.98,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5228595,
+      48.1587282
+     ],
+     [
+      11.523079,
+      48.1587402
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 17,
+    "a_w_median": 0.6364,
+    "n": 2,
+    "crest_max": 3.51,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5235052,
+      48.1587573
+     ],
+     [
+      11.5238953,
+      48.1587545
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 18,
+    "a_w_median": 0.8978,
+    "n": 3,
+    "crest_max": 3.23,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5240797,
+      48.1587545
+     ],
+     [
+      11.5244137,
+      48.1587523
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 19,
+    "a_w_median": 0.7724,
+    "n": 3,
+    "crest_max": 3.23,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5245913,
+      48.1587375
+     ],
+     [
+      11.5250882,
+      48.158736
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 20,
+    "a_w_median": 2.1565,
+    "n": 2,
+    "crest_max": 5.35,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5252498,
+      48.1587312
+     ],
+     [
+      11.5258692,
+      48.1586818
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 21,
+    "a_w_median": 10.1705,
+    "n": 5,
+    "crest_max": 3.78,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.7,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5260025,
+      48.1586412
+     ],
+     [
+      11.5264627,
+      48.158518
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 22,
+    "a_w_median": 1.1178,
+    "n": 5,
+    "crest_max": 4.49,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 0.6,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5266083,
+      48.1584808
+     ],
+     [
+      11.526767,
+      48.1584398
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 23,
+    "a_w_median": 1.0275,
+    "n": 2,
+    "crest_max": 5.09,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5272767,
+      48.1582558
+     ],
+     [
+      11.5276172,
+      48.1581212
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 24,
+    "a_w_median": 2.5124,
+    "n": 3,
+    "crest_max": 5.88,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5277687,
+      48.1580665
+     ],
+     [
+      11.5282318,
+      48.157871
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 25,
+    "a_w_median": 1.8684,
+    "n": 4,
+    "crest_max": 4.79,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.528411,
+      48.1577862
+     ],
+     [
+      11.5287323,
+      48.1576448
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 26,
+    "a_w_median": 2.1771,
+    "n": 3,
+    "crest_max": 4.81,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5288527,
+      48.1575863
+     ],
+     [
+      11.5292358,
+      48.1574413
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 27,
+    "a_w_median": 2.8288,
+    "n": 2,
+    "crest_max": 4.83,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5295673,
+      48.1572838
+     ],
+     [
+      11.5299425,
+      48.1570932
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 28,
+    "a_w_median": 4.4053,
+    "n": 4,
+    "crest_max": 6.88,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5300442,
+      48.1570473
+     ],
+     [
+      11.5303918,
+      48.156888
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 29,
+    "a_w_median": 1.8975,
+    "n": 4,
+    "crest_max": 4.12,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.875,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5305252,
+      48.1568197
+     ],
+     [
+      11.5308747,
+      48.1565868
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 30,
+    "a_w_median": 3.7621,
+    "n": 4,
+    "crest_max": 4.71,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.667,
+    "surf_n": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5312975,
+      48.1563808
+     ],
+     [
+      11.531514,
+      48.1562718
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 31,
+    "a_w_median": 1.7444,
+    "n": 3,
+    "crest_max": 4.73,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.531612,
+      48.1562222
+     ],
+     [
+      11.5318633,
+      48.1559473
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 32,
+    "a_w_median": 3.1428,
+    "n": 4,
+    "crest_max": 6.5,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.875,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.53195,
+      48.1558503
+     ],
+     [
+      11.5322003,
+      48.1555568
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 33,
+    "a_w_median": 2.9449,
+    "n": 4,
+    "crest_max": 4.85,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.625,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5322895,
+      48.1554438
+     ],
+     [
+      11.532382,
+      48.1553437
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 34,
+    "a_w_median": 1.8958,
+    "n": 2,
+    "crest_max": 3.52,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.75,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5326373,
+      48.155036
+     ],
+     [
+      11.5327065,
+      48.1547485
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 35,
+    "a_w_median": 2.3257,
+    "n": 5,
+    "crest_max": 6.46,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "rough",
+    "surf_conf": 0.529,
+    "surf_n": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5328073,
+      48.1543433
+     ],
+     [
+      11.5328418,
+      48.1542357
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 36,
+    "a_w_median": 0.9805,
+    "n": 2,
+    "crest_max": 3.4,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5328612,
+      48.1541315
+     ],
+     [
+      11.5329153,
+      48.1538575
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 37,
+    "a_w_median": 1.2724,
+    "n": 4,
+    "crest_max": 5.31,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5329288,
+      48.15376
+     ],
+     [
+      11.5330607,
+      48.1533865
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 38,
+    "a_w_median": 0.8111,
+    "n": 6,
+    "crest_max": 4.79,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 0.939,
+    "surf_n": 33
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5330908,
+      48.1533177
+     ],
+     [
+      11.5333173,
+      48.1530043
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 39,
+    "a_w_median": 1.2606,
+    "n": 4,
+    "crest_max": 5.72,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 0.914,
+    "surf_n": 58
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5333953,
+      48.1529465
+     ],
+     [
+      11.5338278,
+      48.1527277
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 40,
+    "a_w_median": 1.3434,
+    "n": 5,
+    "crest_max": 5.39,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5339332,
+      48.1526918
+     ],
+     [
+      11.5341672,
+      48.152557
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 41,
+    "a_w_median": 1.9087,
+    "n": 4,
+    "crest_max": 5.26,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.857,
+    "surf_n": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5345078,
+      48.1524757
+     ],
+     [
+      11.5349962,
+      48.1522778
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 42,
+    "a_w_median": 1.405,
+    "n": 5,
+    "crest_max": 6.24,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5351048,
+      48.1522337
+     ],
+     [
+      11.5356402,
+      48.152092
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 43,
+    "a_w_median": 1.0369,
+    "n": 7,
+    "crest_max": 5.22,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5358893,
+      48.152028
+     ],
+     [
+      11.5362452,
+      48.1520055
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 44,
+    "a_w_median": 2.8904,
+    "n": 5,
+    "crest_max": 4.72,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.9,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5363465,
+      48.151987
+     ],
+     [
+      11.5368615,
+      48.1518435
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 45,
+    "a_w_median": 2.3609,
+    "n": 5,
+    "crest_max": 5.42,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.6,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5371798,
+      48.1517878
+     ],
+     [
+      11.5373488,
+      48.1517788
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 46,
+    "a_w_median": 1.7293,
+    "n": 2,
+    "crest_max": 2.73,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.537821,
+      48.1516363
+     ],
+     [
+      11.5381533,
+      48.1515472
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 47,
+    "a_w_median": 1.5858,
+    "n": 3,
+    "crest_max": 3.19,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.538309,
+      48.151525
+     ],
+     [
+      11.5388235,
+      48.1514085
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 48,
+    "a_w_median": 4.4326,
+    "n": 5,
+    "crest_max": 5.83,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.9,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5389283,
+      48.1513637
+     ],
+     [
+      11.5394413,
+      48.1512657
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 49,
+    "a_w_median": 1.6527,
+    "n": 5,
+    "crest_max": 5.67,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5399172,
+      48.1511555
+     ],
+     [
+      11.540046,
+      48.151133
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 50,
+    "a_w_median": 1.8818,
+    "n": 2,
+    "crest_max": 4.99,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5401925,
+      48.1511077
+     ],
+     [
+      11.540698,
+      48.1510163
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 51,
+    "a_w_median": 3.0518,
+    "n": 4,
+    "crest_max": 7.47,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.75,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5408482,
+      48.150984
+     ],
+     [
+      11.5413048,
+      48.150898
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 52,
+    "a_w_median": 2.0837,
+    "n": 4,
+    "crest_max": 5.1,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5414335,
+      48.1508672
+     ],
+     [
+      11.5415673,
+      48.1508472
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 53,
+    "a_w_median": 2.239,
+    "n": 2,
+    "crest_max": 6.22,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5425102,
+      48.1506452
+     ],
+     [
+      11.542653,
+      48.1506182
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 54,
+    "a_w_median": 2.918,
+    "n": 2,
+    "crest_max": 6.26,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5427782,
+      48.150589
+     ],
+     [
+      11.5432887,
+      48.1505058
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 55,
+    "a_w_median": 3.0296,
+    "n": 4,
+    "crest_max": 5.46,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.75,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5434235,
+      48.1504967
+     ],
+     [
+      11.543739,
+      48.1504382
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 56,
+    "a_w_median": 1.2927,
+    "n": 3,
+    "crest_max": 3.4,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.544113,
+      48.150361
+     ],
+     [
+      11.5445308,
+      48.150252
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 57,
+    "a_w_median": 1.8815,
+    "n": 4,
+    "crest_max": 5.7,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5446902,
+      48.1502077
+     ],
+     [
+      11.5451662,
+      48.1501198
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 58,
+    "a_w_median": 1.7345,
+    "n": 4,
+    "crest_max": 3.01,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.875,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5453188,
+      48.1500953
+     ],
+     [
+      11.5458212,
+      48.1499732
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 59,
+    "a_w_median": 1.332,
+    "n": 4,
+    "crest_max": 7.57,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5459968,
+      48.1499383
+     ],
+     [
+      11.5464325,
+      48.1498722
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 60,
+    "a_w_median": 3.0122,
+    "n": 3,
+    "crest_max": 4.67,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.8,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5468345,
+      48.1497978
+     ],
+     [
+      11.5470613,
+      48.1497378
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 61,
+    "a_w_median": 1.7488,
+    "n": 2,
+    "crest_max": 3.63,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5472205,
+      48.1497083
+     ],
+     [
+      11.5478023,
+      48.149579
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 62,
+    "a_w_median": 1.474,
+    "n": 5,
+    "crest_max": 6.82,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5479723,
+      48.1495288
+     ],
+     [
+      11.5481268,
+      48.1494928
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 63,
+    "a_w_median": 1.5872,
+    "n": 2,
+    "crest_max": 3.1,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5486607,
+      48.1493952
+     ],
+     [
+      11.5489697,
+      48.1493408
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 64,
+    "a_w_median": 3.0081,
+    "n": 3,
+    "crest_max": 4.36,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "rough",
+    "surf_conf": 0.6,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5492218,
+      48.1492945
+     ],
+     [
+      11.5497795,
+      48.1491865
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 65,
+    "a_w_median": 2.943,
+    "n": 4,
+    "crest_max": 4.81,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.875,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5498992,
+      48.1491813
+     ],
+     [
+      11.5503685,
+      48.1491232
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 66,
+    "a_w_median": 1.1645,
+    "n": 3,
+    "crest_max": 4.27,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5505095,
+      48.1490977
+     ],
+     [
+      11.5510287,
+      48.1489967
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 67,
+    "a_w_median": 2.0615,
+    "n": 3,
+    "crest_max": 4.42,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5511817,
+      48.1489593
+     ],
+     [
+      11.5516392,
+      48.148847
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 68,
+    "a_w_median": 2.0553,
+    "n": 4,
+    "crest_max": 5.5,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.875,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5520282,
+      48.1487728
+     ],
+     [
+      11.5523165,
+      48.1487098
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 69,
+    "a_w_median": 1.0373,
+    "n": 3,
+    "crest_max": 4.66,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5524475,
+      48.1486897
+     ],
+     [
+      11.5527062,
+      48.1486298
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 70,
+    "a_w_median": 2.0761,
+    "n": 3,
+    "crest_max": 5.3,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5531452,
+      48.1485343
+     ],
+     [
+      11.5535855,
+      48.1484485
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 71,
+    "a_w_median": 3.1233,
+    "n": 4,
+    "crest_max": 4.57,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.625,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5537455,
+      48.1484147
+     ],
+     [
+      11.5542913,
+      48.148339
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 72,
+    "a_w_median": 2.2245,
+    "n": 5,
+    "crest_max": 6.09,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.554439,
+      48.148333
+     ],
+     [
+      11.5547463,
+      48.1483047
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 73,
+    "a_w_median": 1.3002,
+    "n": 3,
+    "crest_max": 4.14,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.55512,
+      48.1482848
+     ],
+     [
+      11.55512,
+      48.1482848
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 74,
+    "a_w_median": 0.1092,
+    "n": 1,
+    "crest_max": 3.85,
+    "cf_flag": false,
+    "comfort": 1,
+    "comfort_color": "#1a9850",
+    "surf_pred": "smooth",
+    "surf_conf": 0.846,
+    "surf_n": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5556942,
+      48.1482125
+     ],
+     [
+      11.5561967,
+      48.1481428
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 75,
+    "a_w_median": 1.204,
+    "n": 5,
+    "crest_max": 4.31,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 0.941,
+    "surf_n": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5563528,
+      48.1481145
+     ],
+     [
+      11.556946,
+      48.1480618
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 76,
+    "a_w_median": 2.6438,
+    "n": 5,
+    "crest_max": 4.57,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.7,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.557094,
+      48.1480433
+     ],
+     [
+      11.5572433,
+      48.148022
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 77,
+    "a_w_median": 2.4953,
+    "n": 2,
+    "crest_max": 3.59,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5576873,
+      48.147962
+     ],
+     [
+      11.5581727,
+      48.1478405
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 78,
+    "a_w_median": 3.5565,
+    "n": 4,
+    "crest_max": 5.51,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.714,
+    "surf_n": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5585377,
+      48.1477392
+     ],
+     [
+      11.5588782,
+      48.1476852
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 79,
+    "a_w_median": 5.625,
+    "n": 3,
+    "crest_max": 4.45,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.6,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5590822,
+      48.147655
+     ],
+     [
+      11.5594758,
+      48.1475508
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 80,
+    "a_w_median": 2.3041,
+    "n": 3,
+    "crest_max": 5.79,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5598482,
+      48.1474145
+     ],
+     [
+      11.5598482,
+      48.1474145
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 81,
+    "a_w_median": 1.4251,
+    "n": 1,
+    "crest_max": 3.32,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5602848,
+      48.1473072
+     ],
+     [
+      11.5606618,
+      48.1472125
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 82,
+    "a_w_median": 1.0614,
+    "n": 3,
+    "crest_max": 3.71,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5607987,
+      48.1471823
+     ],
+     [
+      11.5613593,
+      48.1470712
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 83,
+    "a_w_median": 1.8878,
+    "n": 5,
+    "crest_max": 4.71,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.9,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5614638,
+      48.1470377
+     ],
+     [
+      11.5618862,
+      48.1469253
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 84,
+    "a_w_median": 1.3226,
+    "n": 4,
+    "crest_max": 3.94,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5624022,
+      48.1467752
+     ],
+     [
+      11.5625628,
+      48.1467162
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 85,
+    "a_w_median": 0.9177,
+    "n": 2,
+    "crest_max": 3.46,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5627128,
+      48.1466633
+     ],
+     [
+      11.5628623,
+      48.1466018
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 86,
+    "a_w_median": 1.5989,
+    "n": 2,
+    "crest_max": 5.08,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.563254,
+      48.1464373
+     ],
+     [
+      11.5638178,
+      48.14626
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 87,
+    "a_w_median": 2.3624,
+    "n": 7,
+    "crest_max": 6.25,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5638948,
+      48.1463115
+     ],
+     [
+      11.564214,
+      48.1466138
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 88,
+    "a_w_median": 2.1319,
+    "n": 5,
+    "crest_max": 4.72,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.625,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5642665,
+      48.1466427
+     ],
+     [
+      11.5645667,
+      48.1469533
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 89,
+    "a_w_median": 3.9979,
+    "n": 7,
+    "crest_max": 5.98,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5646315,
+      48.1470317
+     ],
+     [
+      11.5648105,
+      48.1473145
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 90,
+    "a_w_median": 1.4049,
+    "n": 2,
+    "crest_max": 3.11,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5648633,
+      48.1473905
+     ],
+     [
+      11.5650993,
+      48.1477442
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 91,
+    "a_w_median": 3.4504,
+    "n": 4,
+    "crest_max": 4.68,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "rough",
+    "surf_conf": 0.571,
+    "surf_n": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5651268,
+      48.1478262
+     ],
+     [
+      11.5653585,
+      48.1481277
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 92,
+    "a_w_median": 2.5332,
+    "n": 7,
+    "crest_max": 5.96,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.667,
+    "surf_n": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5656197,
+      48.1480738
+     ],
+     [
+      11.566048,
+      48.1480083
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 93,
+    "a_w_median": 0.8118,
+    "n": 5,
+    "crest_max": 3.67,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5661588,
+      48.1479767
+     ],
+     [
+      11.5666695,
+      48.1478853
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 94,
+    "a_w_median": 0.5994,
+    "n": 6,
+    "crest_max": 3.79,
+    "cf_flag": false,
+    "comfort": 2,
+    "comfort_color": "#91cf60",
+    "surf_pred": "smooth",
+    "surf_conf": 0.846,
+    "surf_n": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5667887,
+      48.1479722
+     ],
+     [
+      11.5671022,
+      48.1481922
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 95,
+    "a_w_median": 3.7255,
+    "n": 5,
+    "crest_max": 5.77,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.655,
+    "surf_n": 29
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5671402,
+      48.1482393
+     ],
+     [
+      11.567251,
+      48.1483845
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 96,
+    "a_w_median": 0.8744,
+    "n": 5,
+    "crest_max": 6.24,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "rough",
+    "surf_conf": 0.8,
+    "surf_n": 15
+   }
+  }
+ ]
+}

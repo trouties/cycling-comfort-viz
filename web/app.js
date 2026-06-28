@@ -5,7 +5,15 @@ const COMFORT_LEGEND = [
   ["#d73027", "5 very/extreme"], ["#9e9e9e", "no data"],
 ];
 
-let map, layerControl, charts = [];
+// ML 路面层(二分类 smooth/rough)颜色:smooth=绿,rough=红,无预测=中性灰(降透明)。
+const SURFACE_COLORS = { smooth: "#1a9850", rough: "#d73027" };
+const SURFACE_NULL_COLOR = "#bdbdbd";
+const SURFACE_LEGEND = [
+  ["#1a9850", "smooth"], ["#d73027", "rough"], [SURFACE_NULL_COLOR, "no prediction"],
+];
+
+let map, layerControl, charts = [], legendCtrl = null;
+let colorMode = "comfort";   // "comfort"(默认,ISO a_w) | "surface"(ML 路面)
 const current = { points: null, segments: null, surface: null };
 
 async function loadJSON(path) {
@@ -44,15 +52,30 @@ function pointsLayer(gj) {
   });
 }
 
+// 段层样式随当前 colorMode 切换:comfort=ISO a_w 颜色;surface=ML 预测类(无预测则灰+降透明)。
+function segStyle(f) {
+  const p = f.properties;
+  if (colorMode === "surface") {
+    const pred = p.surf_pred;
+    if (pred == null) return { color: SURFACE_NULL_COLOR, weight: 6, opacity: 0.35 };
+    return { color: SURFACE_COLORS[pred] || SURFACE_NULL_COLOR, weight: 6, opacity: 0.85 };
+  }
+  return { color: p.comfort_color, weight: 6, opacity: 0.85 };
+}
+
 function segmentsLayer(gj) {
   return L.geoJSON(gj, {
-    style: (f) => ({ color: f.properties.comfort_color, weight: 6, opacity: 0.85 }),
+    style: segStyle,
     onEachFeature: (f, lyr) => {
       const p = f.properties;
+      const ml = p.surf_pred
+        ? `<br>ML surface: ${p.surf_pred}` +
+          ` (conf ${p.surf_conf == null ? "—" : p.surf_conf.toFixed(2)}, n=${p.surf_n ?? "—"})`
+        : "";
       lyr.bindPopup(
         `<b>Segment ${p.bin_id} (50 m)</b><br>` +
         `median a_w: ${p.a_w_median == null ? "—" : p.a_w_median.toFixed(3)} m/s²<br>` +
-        `comfort: ${p.comfort ?? "—"}<br>windows: ${p.n}`);
+        `comfort: ${p.comfort ?? "—"}<br>windows: ${p.n}${ml}`);
     },
   });
 }
@@ -72,17 +95,47 @@ function surfaceLayer(gj) {
   });
 }
 
+// 图例 = 配色模式切换(段控)+ 当前模式色阶 + 诚实注记。切换时重绘图例并 setStyle 段层。
+function renderLegend(d) {
+  const toggle =
+    `<div class="legend-toggle" role="group" aria-label="Segment color mode">` +
+    `<button type="button" class="lt-btn${colorMode === "comfort" ? " active" : ""}" ` +
+      `data-mode="comfort">Comfort a_w</button>` +
+    `<button type="button" class="lt-btn${colorMode === "surface" ? " active" : ""}" ` +
+      `data-mode="surface">ML surface</button>` +
+    `</div>`;
+  const body = colorMode === "surface"
+    ? "<b>ML road surface (predicted)</b><br>" +
+      SURFACE_LEGEND.map(([c, t]) => `<i style="background:${c}"></i>${t}`).join("<br>") +
+      `<div class="legend-note">Binary model (smooth vs rough), modest accuracy ` +
+      `(F1-macro ≈ 0.62) — OSM-weak-supervised, treat as a hint, not ground truth. ` +
+      `Baseline rides have no prediction.</div>`
+    : "<b>Comfort — vertical Wk a_w (ISO 2631-1)</b><br>" +
+      COMFORT_LEGEND.map(([c, t]) => `<i style="background:${c}"></i>${t}`).join("<br>") +
+      `<div class="legend-note">ISO 2631-1 reaction scale on frame-mounted vertical Wk a_w · ` +
+      `Gao 2018 cited for awv–comfort correlation only</div>`;
+  d.innerHTML = toggle + body;
+  d.querySelectorAll(".lt-btn").forEach((b) => {
+    b.addEventListener("click", () => {
+      const mode = b.dataset.mode;
+      if (mode === colorMode) return;
+      colorMode = mode;
+      renderLegend(d);
+      if (current.segments) current.segments.setStyle(segStyle);
+    });
+  });
+}
+
 function addLegend(m) {
   const ctrl = L.control({ position: "bottomright" });
   ctrl.onAdd = () => {
     const d = L.DomUtil.create("div", "legend");
-    d.innerHTML = "<b>Comfort — vertical Wk a_w (ISO 2631-1)</b><br>" +
-      COMFORT_LEGEND.map(([c, t]) => `<i style="background:${c}"></i>${t}`).join("<br>") +
-      `<div class="legend-note">ISO 2631-1 reaction scale on frame-mounted vertical Wk a_w · ` +
-      `Gao 2018 cited for awv–comfort correlation only</div>`;
+    L.DomEvent.disableClickPropagation(d);   // 点按钮不拖地图
+    renderLegend(d);
     return d;
   };
   ctrl.addTo(m);
+  legendCtrl = ctrl;
 }
 
 function fmtNum(v, d) {

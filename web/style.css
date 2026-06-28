@@ -134,6 +134,20 @@ body { display: flex; flex-direction: column; overflow: hidden; }
 .legend-note { margin-top: 7px; padding-top: 6px; border-top: 1px solid var(--rule);
   font-size: 10px; color: var(--tum-gray-50); line-height: 1.35; }
 
+/* ---- 图例内的配色模式切换:TUM 段控(comfort a_w ↔ ML 路面) ---- */
+.legend-toggle { display: flex; margin-bottom: 8px; border: 1px solid var(--rule); }
+.legend-toggle .lt-btn {
+  flex: 1 1 0; appearance: none; border: 0; cursor: pointer;
+  background: var(--tum-white); color: var(--tum-gray-50);
+  font-family: inherit; font-size: 10px; line-height: 1.2; padding: 4px 6px;
+  border-right: 1px solid var(--rule);
+  transition: color .15s ease, background .15s ease;
+}
+.legend-toggle .lt-btn:last-child { border-right: 0; }
+.legend-toggle .lt-btn:hover { color: var(--tum-blue-dark); }
+.legend-toggle .lt-btn.active { background: var(--tum-blue); color: var(--tum-white); font-weight: 700; }
+.legend-toggle .lt-btn:focus-visible { outline: 2px solid var(--tum-blue); outline-offset: -2px; }
+
 /* ---- 窄屏:侧栏落到地图下方,整页可滚 ---- */
 @media (max-width: 860px) {
   body { overflow: auto; }
