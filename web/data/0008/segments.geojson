@@ -25,7 +25,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.913,
+    "surf_conf": 0.978,
     "surf_n": 46
    }
   },
@@ -249,7 +249,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.976,
+    "surf_conf": 1.0,
     "surf_n": 42
    }
   },
@@ -305,7 +305,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -361,7 +361,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.714,
+    "surf_conf": 0.429,
     "surf_n": 7
    }
   },
@@ -445,7 +445,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.962,
+    "surf_conf": 1.0,
     "surf_n": 53
    }
   },
@@ -501,7 +501,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.917,
+    "surf_conf": 1.0,
     "surf_n": 12
    }
   },
@@ -529,7 +529,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.6,
+    "surf_conf": 1.0,
     "surf_n": 5
    }
   },
@@ -556,8 +556,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.8,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 5
    }
   },
@@ -584,8 +584,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -612,8 +612,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.875,
+    "surf_pred": "moderate",
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -640,7 +640,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "moderate",
     "surf_conf": 0.875,
     "surf_n": 8
    }
@@ -697,7 +697,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.973,
+    "surf_conf": 1.0,
     "surf_n": 37
    }
   },
@@ -753,7 +753,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.643,
+    "surf_conf": 0.571,
     "surf_n": 14
    }
   },
@@ -836,8 +836,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.909,
+    "surf_pred": "moderate",
+    "surf_conf": 1.0,
     "surf_n": 11
    }
   },
@@ -864,7 +864,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 3
    }
@@ -892,7 +892,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 5
    }
@@ -920,7 +920,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 5
    }
@@ -948,7 +948,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 6
    }
@@ -976,7 +976,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 7
    }
@@ -1004,7 +1004,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 3
    }
@@ -1032,7 +1032,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 10
    }
@@ -1060,7 +1060,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 10
    }
@@ -1088,7 +1088,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 4
    }
@@ -1116,8 +1116,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.6,
     "surf_n": 5
    }
   },
@@ -1173,7 +1173,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_conf": 0.571,
     "surf_n": 7
    }
   },
@@ -1200,7 +1200,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 16
    }
@@ -1229,7 +1229,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.914,
+    "surf_conf": 0.943,
     "surf_n": 35
    }
   },
@@ -1313,7 +1313,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -1340,8 +1340,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.7,
     "surf_n": 10
    }
   },
@@ -1368,7 +1368,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
     "surf_n": 3
    }
@@ -1396,8 +1396,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.5,
+    "surf_pred": "rough",
+    "surf_conf": 0.625,
     "surf_n": 8
    }
   },
@@ -1424,7 +1424,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 0.6,
     "surf_n": 5
    }
@@ -1453,7 +1453,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.5,
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -1482,119 +1482,7 @@
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 3
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.594699,
-      48.1512417
-     ],
-     [
-      11.5944447,
-      48.1514445
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 53,
-    "a_w_median": 1.448,
-    "n": 2,
-    "crest_max": 5.08,
-    "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 3
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5943393,
-      48.1515342
-     ],
-     [
-      11.5940878,
-      48.151827
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 54,
-    "a_w_median": NaN,
-    "n": 4,
-    "crest_max": 0.0,
-    "cf_flag": false,
-    "comfort": null,
-    "comfort_color": "#9e9e9e",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 8
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5940133,
-      48.1519327
-     ],
-     [
-      11.5937812,
-      48.1522485
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 55,
-    "a_w_median": NaN,
-    "n": 4,
-    "crest_max": 0.0,
-    "cf_flag": false,
-    "comfort": null,
-    "comfort_color": "#9e9e9e",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 8
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5936825,
-      48.152351
-     ],
-     [
-      11.5936825,
-      48.152351
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 56,
-    "a_w_median": NaN,
-    "n": 1,
-    "crest_max": 0.0,
-    "cf_flag": false,
-    "comfort": null,
-    "comfort_color": "#9e9e9e",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 2
+    "surf_n": 4
    }
   },
   {
@@ -1607,22 +1495,22 @@
       48.1638545
      ],
      [
-      11.5734932,
-      48.1637392
+      11.5739422,
+      48.1638545
      ]
     ]
    },
    "properties": {
-    "bin_id": 95,
-    "a_w_median": 0.67,
-    "n": 4,
-    "crest_max": 6.98,
+    "bin_id": 94,
+    "a_w_median": 0.0136,
+    "n": 1,
+    "crest_max": 5.09,
     "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
+    "comfort": 1,
+    "comfort_color": "#1a9850",
     "surf_pred": "smooth",
-    "surf_conf": 0.905,
-    "surf_n": 63
+    "surf_conf": 0.981,
+    "surf_n": 53
    }
   },
   {
@@ -1631,18 +1519,46 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5733512,
-      48.1637428
+      11.5737927,
+      48.1637368
      ],
      [
-      11.5728185,
-      48.1637222
+      11.5733512,
+      48.1637428
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 95,
+    "a_w_median": 0.6819,
+    "n": 4,
+    "crest_max": 6.98,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5731412,
+      48.1637357
+     ],
+     [
+      11.5726523,
+      48.163709
      ]
     ]
    },
    "properties": {
     "bin_id": 96,
-    "a_w_median": 0.6211,
+    "a_w_median": 0.5871,
     "n": 4,
     "crest_max": 3.53,
     "cf_flag": false,
@@ -1659,18 +1575,18 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5726523,
-      48.163709
+      11.5724943,
+      48.1636973
      ],
      [
-      11.572064,
-      48.1636892
+      11.571958,
+      48.1636883
      ]
     ]
    },
    "properties": {
     "bin_id": 97,
-    "a_w_median": 0.6189,
+    "a_w_median": 0.5955,
     "n": 3,
     "crest_max": 3.1,
     "cf_flag": false,
@@ -1687,25 +1603,25 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.571958,
-      48.1636883
+      11.5718652,
+      48.1636897
      ],
      [
-      11.571488,
-      48.1636872
+      11.5713503,
+      48.1636845
      ]
     ]
    },
    "properties": {
     "bin_id": 98,
-    "a_w_median": 1.9269,
+    "a_w_median": 2.1674,
     "n": 5,
     "crest_max": 5.28,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.8,
+    "surf_conf": 0.9,
     "surf_n": 10
    }
   },
@@ -1715,8 +1631,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5713503,
-      48.1636845
+      11.5712098,
+      48.1636932
      ],
      [
       11.5707415,
@@ -1726,15 +1642,15 @@
    },
    "properties": {
     "bin_id": 99,
-    "a_w_median": 2.1357,
-    "n": 5,
+    "a_w_median": 1.9329,
+    "n": 4,
     "crest_max": 5.55,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 10
+    "surf_n": 8
    }
   },
   {
@@ -1775,296 +1691,16 @@
       48.1638668
      ],
      [
-      11.5695335,
-      48.1639202
+      11.5693837,
+      48.1639337
      ]
     ]
    },
    "properties": {
     "bin_id": 101,
-    "a_w_median": 0.7108,
-    "n": 4,
-    "crest_max": 4.51,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 7
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5693837,
-      48.1639337
-     ],
-     [
-      11.5688902,
-      48.1639732
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 102,
-    "a_w_median": 1.3359,
-    "n": 4,
-    "crest_max": 5.34,
-    "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 8
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5685437,
-      48.1639653
-     ],
-     [
-      11.5682115,
-      48.1639935
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 103,
-    "a_w_median": 0.5473,
-    "n": 3,
-    "crest_max": 6.34,
-    "cf_flag": false,
-    "comfort": 2,
-    "comfort_color": "#91cf60",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 6
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5680345,
-      48.1640042
-     ],
-     [
-      11.5674902,
-      48.1640615
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 104,
-    "a_w_median": 3.1368,
-    "n": 2,
-    "crest_max": 6.16,
-    "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 3
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5673483,
-      48.1641045
-     ],
-     [
-      11.5668587,
-      48.1642872
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 105,
-    "a_w_median": 0.7418,
-    "n": 4,
-    "crest_max": 4.8,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 8
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5667,
-      48.1642948
-     ],
-     [
-      11.5663192,
-      48.1642792
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 106,
-    "a_w_median": 0.8913,
-    "n": 3,
-    "crest_max": 4.84,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 6
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5661432,
-      48.164297
-     ],
-     [
-      11.5657722,
-      48.1642807
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 107,
-    "a_w_median": 0.6333,
-    "n": 3,
-    "crest_max": 3.02,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 7
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5652347,
-      48.1643255
-     ],
-     [
-      11.5648955,
-      48.1643553
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 108,
-    "a_w_median": 2.0881,
-    "n": 4,
-    "crest_max": 7.69,
-    "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.75,
-    "surf_n": 8
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5648795,
-      48.1644082
-     ],
-     [
-      11.5646975,
-      48.1648027
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 109,
-    "a_w_median": 0.6344,
-    "n": 6,
-    "crest_max": 5.1,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 21
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5645743,
-      48.164818
-     ],
-     [
-      11.5643055,
-      48.1648527
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 110,
-    "a_w_median": 2.0174,
-    "n": 3,
-    "crest_max": 5.94,
-    "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.714,
-    "surf_n": 7
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5640102,
-      48.1648663
-     ],
-     [
-      11.5634037,
-      48.1648842
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 111,
-    "a_w_median": 1.005,
+    "a_w_median": 1.0034,
     "n": 5,
-    "crest_max": 6.84,
+    "crest_max": 4.51,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
@@ -2079,20 +1715,132 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5630548,
-      48.1647715
+      11.5692445,
+      48.1639737
      ],
      [
-      11.5630395,
-      48.1645767
+      11.5688902,
+      48.1639732
      ]
     ]
    },
    "properties": {
-    "bin_id": 112,
-    "a_w_median": 0.7643,
+    "bin_id": 102,
+    "a_w_median": 1.4158,
+    "n": 3,
+    "crest_max": 5.34,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5685437,
+      48.1639653
+     ],
+     [
+      11.5680345,
+      48.1640042
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 103,
+    "a_w_median": 0.7933,
     "n": 4,
-    "crest_max": 5.14,
+    "crest_max": 6.34,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5674902,
+      48.1640615
+     ],
+     [
+      11.5673483,
+      48.1641045
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 104,
+    "a_w_median": 2.8494,
+    "n": 2,
+    "crest_max": 6.16,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.567242,
+      48.1641715
+     ],
+     [
+      11.5668587,
+      48.1642872
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 105,
+    "a_w_median": 0.6743,
+    "n": 3,
+    "crest_max": 4.8,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5667,
+      48.1642948
+     ],
+     [
+      11.5661432,
+      48.164297
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 106,
+    "a_w_median": 0.7546,
+    "n": 4,
+    "crest_max": 4.84,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
@@ -2107,20 +1855,132 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5630327,
-      48.1644953
+      11.5659618,
+      48.1642865
      ],
      [
-      11.5629948,
-      48.1642232
+      11.5657722,
+      48.1642807
      ]
     ]
    },
    "properties": {
-    "bin_id": 113,
-    "a_w_median": 1.4487,
+    "bin_id": 107,
+    "a_w_median": 0.6646,
+    "n": 2,
+    "crest_max": 3.02,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5652347,
+      48.1643255
+     ],
+     [
+      11.5648613,
+      48.1644413
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 108,
+    "a_w_median": 1.8495,
+    "n": 6,
+    "crest_max": 7.69,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.833,
+    "surf_n": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5648848,
+      48.164479
+     ],
+     [
+      11.5646975,
+      48.1648027
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 109,
+    "a_w_median": 1.4338,
     "n": 4,
-    "crest_max": 6.52,
+    "crest_max": 5.1,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5645743,
+      48.164818
+     ],
+     [
+      11.5640102,
+      48.1648663
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 110,
+    "a_w_median": 1.7741,
+    "n": 4,
+    "crest_max": 5.94,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.75,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5638678,
+      48.1648542
+     ],
+     [
+      11.5634037,
+      48.1648842
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 111,
+    "a_w_median": 1.3539,
+    "n": 4,
+    "crest_max": 6.84,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
@@ -2135,25 +1995,53 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5629387,
-      48.1640917
+      11.5630548,
+      48.1647715
      ],
      [
-      11.5627972,
-      48.1637053
+      11.5630327,
+      48.1644953
      ]
     ]
    },
    "properties": {
-    "bin_id": 114,
-    "a_w_median": 1.7001,
+    "bin_id": 112,
+    "a_w_median": 0.7146,
+    "n": 5,
+    "crest_max": 5.14,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5630318,
+      48.1644165
+     ],
+     [
+      11.5629387,
+      48.1640917
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 113,
+    "a_w_median": 1.9157,
     "n": 4,
-    "crest_max": 5.74,
+    "crest_max": 6.52,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.571,
     "surf_n": 7
    }
   },
@@ -2163,26 +2051,26 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.562616,
-      48.1632982
+      11.5628928,
+      48.163936
      ],
      [
-      11.562616,
-      48.1632982
+      11.5627972,
+      48.1637053
      ]
     ]
    },
    "properties": {
-    "bin_id": 115,
-    "a_w_median": 0.725,
-    "n": 1,
-    "crest_max": 3.22,
+    "bin_id": 114,
+    "a_w_median": 1.5789,
+    "n": 3,
+    "crest_max": 4.79,
     "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 2
+    "surf_n": 6
    }
   },
   {
@@ -2191,8 +2079,36 @@
     "type": "LineString",
     "coordinates": [
      [
+      11.562616,
+      48.1632982
+     ],
+     [
       11.5625887,
       48.1631853
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 115,
+    "a_w_median": 0.6884,
+    "n": 2,
+    "crest_max": 3.22,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5625535,
+      48.16308
      ],
      [
       11.5624947,
@@ -2202,15 +2118,15 @@
    },
    "properties": {
     "bin_id": 116,
-    "a_w_median": 0.7776,
-    "n": 5,
+    "a_w_median": 0.8025,
+    "n": 4,
     "crest_max": 5.26,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 10
+    "surf_conf": 0.875,
+    "surf_n": 8
    }
   },
   {
@@ -2293,7 +2209,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.963,
     "surf_n": 27
    }
   },
@@ -2307,22 +2223,22 @@
       48.1611607
      ],
      [
-      11.5618727,
-      48.1610843
+      11.5618337,
+      48.1610062
      ]
     ]
    },
    "properties": {
     "bin_id": 120,
-    "a_w_median": 3.1443,
-    "n": 2,
+    "a_w_median": 1.7326,
+    "n": 3,
     "crest_max": 4.83,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 22
+    "surf_conf": 0.958,
+    "surf_n": 24
    }
   },
   {
@@ -2331,8 +2247,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5618337,
-      48.1610062
+      11.561792,
+      48.1609233
      ],
      [
       11.5616683,
@@ -2342,15 +2258,15 @@
    },
    "properties": {
     "bin_id": 121,
-    "a_w_median": 0.7426,
-    "n": 5,
+    "a_w_median": 0.6785,
+    "n": 4,
     "crest_max": 4.73,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 10
+    "surf_n": 8
    }
   },
   {
@@ -2376,8 +2292,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.8,
+    "surf_pred": "rough",
+    "surf_conf": 0.6,
     "surf_n": 10
    }
   },
@@ -2405,7 +2321,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.667,
+    "surf_conf": 1.0,
     "surf_n": 3
    }
   },
@@ -2433,7 +2349,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.857,
+    "surf_conf": 1.0,
     "surf_n": 7
    }
   },
@@ -2447,22 +2363,22 @@
       48.1592323
      ],
      [
-      11.5610437,
-      48.1589443
+      11.5610092,
+      48.1588438
      ]
     ]
    },
    "properties": {
     "bin_id": 125,
-    "a_w_median": 4.1285,
-    "n": 4,
+    "a_w_median": 3.0455,
+    "n": 5,
     "crest_max": 3.74,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
     "surf_conf": 1.0,
-    "surf_n": 8
+    "surf_n": 10
    }
   },
   {
@@ -2471,26 +2387,26 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5610092,
-      48.1588438
+      11.5609742,
+      48.1587518
      ],
      [
-      11.5609422,
-      48.1586533
+      11.5608407,
+      48.1583788
      ]
     ]
    },
    "properties": {
     "bin_id": 126,
-    "a_w_median": 3.233,
+    "a_w_median": 3.2338,
     "n": 3,
-    "crest_max": 3.65,
+    "crest_max": 4.07,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
     "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_n": 7
    }
   },
   {
@@ -2499,12 +2415,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5608407,
-      48.1583788
+      11.560745,
+      48.1581385
      ],
      [
-      11.56069,
-      48.1580448
+      11.5606258,
+      48.1579503
      ]
     ]
    },
@@ -2512,13 +2428,13 @@
     "bin_id": 127,
     "a_w_median": 2.5689,
     "n": 3,
-    "crest_max": 4.07,
+    "crest_max": 4.11,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.667,
-    "surf_n": 6
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
+    "surf_n": 5
    }
   },
   {
@@ -2527,25 +2443,25 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5606258,
-      48.1579503
+      11.5605663,
+      48.1578597
      ],
      [
-      11.5603263,
-      48.1577387
+      11.5602027,
+      48.1576823
      ]
     ]
    },
    "properties": {
     "bin_id": 128,
-    "a_w_median": 3.6356,
+    "a_w_median": 3.281,
     "n": 4,
     "crest_max": 4.64,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.625,
+    "surf_pred": "rough",
+    "surf_conf": 0.5,
     "surf_n": 8
    }
   },
@@ -2555,8 +2471,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5602027,
-      48.1576823
+      11.5600927,
+      48.1576098
      ],
      [
       11.5597238,
@@ -2566,15 +2482,15 @@
    },
    "properties": {
     "bin_id": 129,
-    "a_w_median": 2.6496,
-    "n": 5,
+    "a_w_median": 2.5153,
+    "n": 4,
     "crest_max": 3.13,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.778,
-    "surf_n": 9
+    "surf_pred": "moderate",
+    "surf_conf": 1.0,
+    "surf_n": 7
    }
   },
   {
@@ -2587,22 +2503,22 @@
       48.1572805
      ],
      [
-      11.5592163,
-      48.1571767
+      11.5591112,
+      48.1571223
      ]
     ]
    },
    "properties": {
     "bin_id": 130,
-    "a_w_median": 2.3728,
-    "n": 3,
+    "a_w_median": 2.5214,
+    "n": 4,
     "crest_max": 4.24,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.833,
-    "surf_n": 6
+    "surf_pred": "moderate",
+    "surf_conf": 1.0,
+    "surf_n": 8
    }
   },
   {
@@ -2611,25 +2527,25 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5591112,
-      48.1571223
+      11.5590062,
+      48.157071
      ],
      [
-      11.5586307,
-      48.1569188
+      11.5585417,
+      48.1568808
      ]
     ]
    },
    "properties": {
     "bin_id": 131,
-    "a_w_median": 2.589,
+    "a_w_median": 3.3547,
     "n": 6,
     "crest_max": 6.64,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.917,
+    "surf_pred": "moderate",
+    "surf_conf": 0.5,
     "surf_n": 12
    }
   },
@@ -2639,8 +2555,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5585417,
-      48.1568808
+      11.5584685,
+      48.156831
      ],
      [
       11.5582622,
@@ -2650,15 +2566,15 @@
    },
    "properties": {
     "bin_id": 132,
-    "a_w_median": 0.4647,
-    "n": 3,
-    "crest_max": 5.34,
+    "a_w_median": 0.432,
+    "n": 2,
+    "crest_max": 3.36,
     "cf_flag": false,
     "comfort": 2,
     "comfort_color": "#91cf60",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 5
+    "surf_n": 3
    }
   },
   {
@@ -2671,22 +2587,22 @@
       48.1565285
      ],
      [
-      11.5576407,
-      48.1563853
+      11.5575203,
+      48.1563277
      ]
     ]
    },
    "properties": {
     "bin_id": 133,
-    "a_w_median": 0.596,
-    "n": 3,
+    "a_w_median": 0.7295,
+    "n": 4,
     "crest_max": 4.43,
     "cf_flag": false,
-    "comfort": 2,
-    "comfort_color": "#91cf60",
-    "surf_pred": "rough",
-    "surf_conf": 0.6,
-    "surf_n": 5
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 7
    }
   },
   {
@@ -2695,8 +2611,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5575203,
-      48.1563277
+      11.5573887,
+      48.1562618
      ],
      [
       11.5570183,
@@ -2706,15 +2622,15 @@
    },
    "properties": {
     "bin_id": 134,
-    "a_w_median": 0.9525,
-    "n": 5,
+    "a_w_median": 0.9583,
+    "n": 4,
     "crest_max": 5.97,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.8,
-    "surf_n": 10
+    "surf_conf": 1.0,
+    "surf_n": 8
    }
   },
   {
@@ -2741,7 +2657,7 @@
     "comfort": 2,
     "comfort_color": "#91cf60",
     "surf_pred": "smooth",
-    "surf_conf": 0.625,
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -2755,22 +2671,22 @@
       48.1554988
      ],
      [
-      11.5561233,
-      48.1554988
+      11.5560125,
+      48.1554177
      ]
     ]
    },
    "properties": {
     "bin_id": 136,
-    "a_w_median": 2.5776,
-    "n": 1,
-    "crest_max": 3.29,
+    "a_w_median": 1.7119,
+    "n": 2,
+    "crest_max": 4.57,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 1
+    "surf_n": 3
    }
   },
   {
@@ -2779,23 +2695,23 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5560125,
-      48.1554177
+      11.555883,
+      48.155341
      ],
      [
-      11.555617,
-      48.1551905
+      11.5554915,
+      48.1551062
      ]
     ]
    },
    "properties": {
     "bin_id": 137,
-    "a_w_median": 1.2339,
+    "a_w_median": 1.6163,
     "n": 4,
-    "crest_max": 4.96,
+    "crest_max": 5.45,
     "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
+    "comfort": 5,
+    "comfort_color": "#d73027",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
     "surf_n": 8
@@ -2807,23 +2723,23 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5554915,
-      48.1551062
+      11.5553558,
+      48.15503
      ],
      [
-      11.5551145,
-      48.1548873
+      11.5550073,
+      48.154825
      ]
     ]
    },
    "properties": {
     "bin_id": 138,
-    "a_w_median": 1.238,
+    "a_w_median": 0.753,
     "n": 4,
-    "crest_max": 5.45,
+    "crest_max": 4.91,
     "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
+    "comfort": 3,
+    "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
     "surf_n": 8
@@ -2835,20 +2751,20 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5550073,
-      48.154825
+      11.5549135,
+      48.1547648
      ],
      [
-      11.5547073,
-      48.1546665
+      11.554479,
+      48.154563
      ]
     ]
    },
    "properties": {
     "bin_id": 139,
-    "a_w_median": 0.7115,
+    "a_w_median": 0.6658,
     "n": 4,
-    "crest_max": 3.48,
+    "crest_max": 3.53,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
@@ -2863,8 +2779,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.554479,
-      48.154563
+      11.5544138,
+      48.1545243
      ],
      [
       11.5539608,
@@ -2874,15 +2790,15 @@
    },
    "properties": {
     "bin_id": 140,
-    "a_w_median": 1.8813,
-    "n": 8,
+    "a_w_median": 2.5839,
+    "n": 7,
     "crest_max": 5.99,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.8,
-    "surf_n": 15
+    "surf_conf": 0.615,
+    "surf_n": 13
    }
   },
   {
@@ -2909,7 +2825,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -2923,22 +2839,22 @@
       48.1537902
      ],
      [
-      11.5530035,
-      48.1537902
+      11.5528648,
+      48.1537183
      ]
     ]
    },
    "properties": {
     "bin_id": 142,
-    "a_w_median": 2.1215,
-    "n": 1,
-    "crest_max": 3.04,
+    "a_w_median": 3.7896,
+    "n": 2,
+    "crest_max": 4.11,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 2
+    "surf_pred": "rough",
+    "surf_conf": 0.75,
+    "surf_n": 4
    }
   },
   {
@@ -2947,25 +2863,25 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5528648,
-      48.1537183
+      11.5527397,
+      48.1536405
      ],
      [
-      11.5524827,
-      48.1535072
+      11.5523632,
+      48.153432
      ]
     ]
    },
    "properties": {
     "bin_id": 143,
-    "a_w_median": 3.1782,
+    "a_w_median": 1.4147,
     "n": 4,
     "crest_max": 4.39,
     "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.625,
     "surf_n": 8
    }
   },
@@ -2975,12 +2891,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5523632,
-      48.153432
+      11.5522348,
+      48.1533592
      ],
      [
-      11.5521022,
-      48.1532893
+      11.5518227,
+      48.1531397
      ]
     ]
    },
@@ -2993,7 +2909,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -3003,8 +2919,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5518227,
-      48.1531397
+      11.5516965,
+      48.1530908
      ],
      [
       11.551427,
@@ -3014,15 +2930,15 @@
    },
    "properties": {
     "bin_id": 145,
-    "a_w_median": 2.8255,
-    "n": 4,
+    "a_w_median": 0.9515,
+    "n": 3,
     "crest_max": 3.97,
     "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
+    "comfort": 3,
+    "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 7
+    "surf_conf": 0.6,
+    "surf_n": 5
    }
   },
   {
@@ -3063,47 +2979,19 @@
       48.1525807
      ],
      [
-      11.5503802,
-      48.1524252
+      11.5502378,
+      48.1523353
      ]
     ]
    },
    "properties": {
     "bin_id": 147,
-    "a_w_median": 1.1808,
-    "n": 3,
+    "a_w_median": 1.1055,
+    "n": 4,
     "crest_max": 4.02,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 6
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5502378,
-      48.1523353
-     ],
-     [
-      11.5498587,
-      48.1521062
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 148,
-    "a_w_median": 0.9615,
-    "n": 4,
-    "crest_max": 5.07,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
     "surf_n": 8
@@ -3115,8 +3003,36 @@
     "type": "LineString",
     "coordinates": [
      [
+      11.5500993,
+      48.1522495
+     ],
+     [
       11.5497253,
       48.1520218
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 148,
+    "a_w_median": 1.2725,
+    "n": 4,
+    "crest_max": 5.26,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5495992,
+      48.1519417
      ],
      [
       11.5494215,
@@ -3126,15 +3042,15 @@
    },
    "properties": {
     "bin_id": 149,
-    "a_w_median": 2.5279,
-    "n": 4,
-    "crest_max": 5.26,
+    "a_w_median": 3.558,
+    "n": 3,
+    "crest_max": 4.75,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 7
+    "surf_pred": "rough",
+    "surf_conf": 0.6,
+    "surf_n": 5
    }
   },
   {
@@ -3147,22 +3063,22 @@
       48.1515177
      ],
      [
-      11.549115,
-      48.1513307
+      11.5490513,
+      48.151239
      ]
     ]
    },
    "properties": {
     "bin_id": 150,
-    "a_w_median": 0.8079,
-    "n": 3,
+    "a_w_median": 0.8747,
+    "n": 4,
     "crest_max": 4.21,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 5
+    "surf_n": 7
    }
   },
   {
@@ -3171,8 +3087,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5490513,
-      48.151239
+      11.5489997,
+      48.1511547
      ],
      [
       11.5487952,
@@ -3182,15 +3098,15 @@
    },
    "properties": {
     "bin_id": 151,
-    "a_w_median": 2.7885,
-    "n": 5,
+    "a_w_median": 2.3888,
+    "n": 4,
     "crest_max": 4.32,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.9,
-    "surf_n": 10
+    "surf_conf": 0.625,
+    "surf_n": 8
    }
   },
   {
@@ -3203,22 +3119,22 @@
       48.1508137
      ],
      [
-      11.548547,
-      48.1505543
+      11.5484802,
+      48.1504533
      ]
     ]
    },
    "properties": {
     "bin_id": 152,
-    "a_w_median": 1.4914,
-    "n": 4,
+    "a_w_median": 1.3115,
+    "n": 5,
     "crest_max": 5.27,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 8
+    "surf_n": 10
    }
   },
   {
@@ -3227,23 +3143,23 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5484802,
-      48.1504533
+      11.5482993,
+      48.1501818
      ],
      [
-      11.5482455,
-      48.1500988
+      11.5481988,
+      48.1500157
      ]
     ]
    },
    "properties": {
     "bin_id": 153,
-    "a_w_median": 1.0258,
+    "a_w_median": 1.6496,
     "n": 3,
-    "crest_max": 4.83,
+    "crest_max": 5.14,
     "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
+    "comfort": 5,
+    "comfort_color": "#d73027",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
     "surf_n": 5
@@ -3255,23 +3171,23 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5481988,
-      48.1500157
+      11.5481668,
+      48.1499482
      ],
      [
-      11.5479722,
-      48.1497783
+      11.54789,
+      48.1498072
      ]
     ]
    },
    "properties": {
     "bin_id": 154,
-    "a_w_median": 1.6496,
+    "a_w_median": 1.2953,
     "n": 5,
     "crest_max": 6.33,
     "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
     "surf_n": 11
@@ -3283,8 +3199,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.54789,
-      48.1498072
+      11.5477817,
+      48.1498212
      ],
      [
       11.5475437,
@@ -3294,15 +3210,15 @@
    },
    "properties": {
     "bin_id": 155,
-    "a_w_median": 0.8529,
-    "n": 4,
+    "a_w_median": 0.8423,
+    "n": 3,
     "crest_max": 4.49,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 8
+    "surf_n": 6
    }
   },
   {
@@ -3329,7 +3245,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.9,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -3343,22 +3259,22 @@
       48.1500187
      ],
      [
-      11.5460043,
-      48.1500925
+      11.545906,
+      48.1501107
      ]
     ]
    },
    "properties": {
     "bin_id": 157,
-    "a_w_median": 1.73,
-    "n": 4,
+    "a_w_median": 1.5153,
+    "n": 5,
     "crest_max": 4.48,
     "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 7
+    "surf_n": 9
    }
   },
   {
@@ -3367,20 +3283,20 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.545906,
-      48.1501107
+      11.5457955,
+      48.1501402
      ],
      [
-      11.5456697,
-      48.1501705
+      11.5452915,
+      48.1502533
      ]
     ]
    },
    "properties": {
     "bin_id": 158,
-    "a_w_median": 1.138,
+    "a_w_median": 1.4783,
     "n": 3,
-    "crest_max": 3.21,
+    "crest_max": 4.9,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
@@ -3395,20 +3311,20 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5452915,
-      48.1502533
+      11.545179,
+      48.150278
      ],
      [
-      11.5448723,
-      48.1501108
+      11.5449203,
+      48.1501052
      ]
     ]
    },
    "properties": {
     "bin_id": 159,
-    "a_w_median": 1.5696,
+    "a_w_median": 1.488,
     "n": 5,
-    "crest_max": 4.9,
+    "crest_max": 4.6,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
@@ -3423,18 +3339,18 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5449203,
-      48.1501052
+      11.5449958,
+      48.1501075
      ],
      [
-      11.5454337,
-      48.1500363
+      11.5455552,
+      48.1499972
      ]
     ]
    },
    "properties": {
     "bin_id": 160,
-    "a_w_median": 1.0798,
+    "a_w_median": 1.2251,
     "n": 6,
     "crest_max": 4.16,
     "cf_flag": false,
@@ -3442,7 +3358,7 @@
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 12
+    "surf_n": 13
    }
   },
   {
@@ -3451,8 +3367,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5455552,
-      48.1499972
+      11.5457967,
+      48.1499375
      ],
      [
       11.5459267,
@@ -3462,15 +3378,15 @@
    },
    "properties": {
     "bin_id": 161,
-    "a_w_median": 1.3481,
-    "n": 3,
+    "a_w_median": 1.8888,
+    "n": 2,
     "crest_max": 4.77,
     "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
-    "surf_n": 7
+    "surf_n": 4
    }
   },
   {
@@ -3483,22 +3399,22 @@
       48.1498688
      ],
      [
-      11.546787,
-      48.149791
+      11.5469208,
+      48.1497487
      ]
     ]
    },
    "properties": {
     "bin_id": 162,
-    "a_w_median": 1.3486,
-    "n": 4,
+    "a_w_median": 1.3921,
+    "n": 5,
     "crest_max": 5.02,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 7
+    "surf_conf": 0.889,
+    "surf_n": 9
    }
   },
   {
@@ -3507,20 +3423,20 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5469208,
-      48.1497487
+      11.547058,
+      48.1497173
      ],
      [
-      11.5473843,
-      48.1496802
+      11.547543,
+      48.1496562
      ]
     ]
    },
    "properties": {
     "bin_id": 163,
-    "a_w_median": 1.1363,
+    "a_w_median": 1.1238,
     "n": 4,
-    "crest_max": 4.36,
+    "crest_max": 5.43,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
@@ -3535,26 +3451,26 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.547543,
-      48.1496562
+      11.5478537,
+      48.1495815
      ],
      [
-      11.5480027,
-      48.149539
+      11.5481587,
+      48.1494963
      ]
     ]
    },
    "properties": {
     "bin_id": 164,
-    "a_w_median": 1.3669,
+    "a_w_median": 1.3945,
     "n": 3,
-    "crest_max": 5.43,
+    "crest_max": 4.37,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 5
+    "surf_n": 6
    }
   },
   {
@@ -3563,8 +3479,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5481587,
-      48.1494963
+      11.5486088,
+      48.1493955
      ],
      [
       11.5487398,
@@ -3574,15 +3490,15 @@
    },
    "properties": {
     "bin_id": 165,
-    "a_w_median": 3.8745,
-    "n": 3,
+    "a_w_median": 4.4491,
+    "n": 2,
     "crest_max": 5.36,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_conf": 0.667,
+    "surf_n": 3
    }
   },
   {
@@ -3623,22 +3539,22 @@
       48.1491885
      ],
      [
-      11.5497912,
-      48.1491152
+      11.5500742,
+      48.1490442
      ]
     ]
    },
    "properties": {
     "bin_id": 167,
-    "a_w_median": 2.3587,
-    "n": 3,
-    "crest_max": 3.73,
+    "a_w_median": 2.0893,
+    "n": 4,
+    "crest_max": 5.6,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.5,
-    "surf_n": 6
+    "surf_conf": 0.857,
+    "surf_n": 7
    }
   },
   {
@@ -3647,8 +3563,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5500742,
-      48.1490442
+      11.5501842,
+      48.1490302
      ],
      [
       11.5501842,
@@ -3658,15 +3574,15 @@
    },
    "properties": {
     "bin_id": 168,
-    "a_w_median": 2.4671,
-    "n": 2,
-    "crest_max": 5.6,
+    "a_w_median": 3.2191,
+    "n": 1,
+    "crest_max": 3.19,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 3
+    "surf_conf": 0.5,
+    "surf_n": 2
    }
   },
   {
@@ -3679,42 +3595,14 @@
       48.1489495
      ],
      [
-      11.5511947,
-      48.1488872
+      11.5513482,
+      48.148852
      ]
     ]
    },
    "properties": {
     "bin_id": 169,
-    "a_w_median": 1.7262,
-    "n": 3,
-    "crest_max": 4.82,
-    "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 5
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5513482,
-      48.148852
-     ],
-     [
-      11.5518552,
-      48.1487312
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 170,
-    "a_w_median": 1.6373,
+    "a_w_median": 1.7556,
     "n": 4,
     "crest_max": 5.06,
     "cf_flag": false,
@@ -3731,8 +3619,36 @@
     "type": "LineString",
     "coordinates": [
      [
+      11.551506,
+      48.1488043
+     ],
+     [
       11.5520142,
       48.1487018
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 170,
+    "a_w_median": 1.6373,
+    "n": 4,
+    "crest_max": 3.53,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5521515,
+      48.1486842
      ],
      [
       11.552303,
@@ -3742,15 +3658,15 @@
    },
    "properties": {
     "bin_id": 171,
-    "a_w_median": 2.9714,
-    "n": 3,
+    "a_w_median": 3.5264,
+    "n": 2,
     "crest_max": 6.03,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 7
+    "surf_n": 5
    }
   },
   {
@@ -3763,22 +3679,22 @@
       48.1485312
      ],
      [
-      11.5525387,
-      48.1482773
+      11.5524653,
+      48.148183
      ]
     ]
    },
    "properties": {
     "bin_id": 172,
-    "a_w_median": 2.0392,
-    "n": 4,
+    "a_w_median": 1.4983,
+    "n": 5,
     "crest_max": 4.12,
     "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 7
+    "surf_conf": 0.889,
+    "surf_n": 9
    }
   },
   {
@@ -3787,8 +3703,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5524653,
-      48.148183
+      11.5523917,
+      48.1481
      ],
      [
       11.5521695,
@@ -3798,9 +3714,149 @@
    },
    "properties": {
     "bin_id": 173,
-    "a_w_median": 0.9513,
-    "n": 5,
+    "a_w_median": 1.0492,
+    "n": 4,
     "crest_max": 4.05,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5520492,
+      48.14767
+     ],
+     [
+      11.5517363,
+      48.1473862
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 174,
+    "a_w_median": 1.5431,
+    "n": 4,
+    "crest_max": 4.72,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5516438,
+      48.147309
+     ],
+     [
+      11.551298,
+      48.1470755
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 175,
+    "a_w_median": 1.3619,
+    "n": 4,
+    "crest_max": 4.88,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.551172,
+      48.147012
+     ],
+     [
+      11.550704,
+      48.1467993
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 176,
+    "a_w_median": 0.8764,
+    "n": 4,
+    "crest_max": 4.2,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5505835,
+      48.1467207
+     ],
+     [
+      11.5503263,
+      48.1465922
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 177,
+    "a_w_median": 0.6381,
+    "n": 3,
+    "crest_max": 4.5,
+    "cf_flag": false,
+    "comfort": 3,
+    "comfort_color": "#fee08b",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5500103,
+      48.146434
+     ],
+     [
+      11.5497443,
+      48.1462463
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 178,
+    "a_w_median": 0.8149,
+    "n": 5,
+    "crest_max": 4.73,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
@@ -3815,20 +3871,48 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5520492,
-      48.14767
+      11.5496592,
+      48.1461395
      ],
      [
-      11.5518113,
-      48.1474495
+      11.5494908,
+      48.1458093
      ]
     ]
    },
    "properties": {
-    "bin_id": 174,
-    "a_w_median": 1.4524,
+    "bin_id": 179,
+    "a_w_median": 2.2371,
+    "n": 5,
+    "crest_max": 4.85,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "rough",
+    "surf_conf": 0.667,
+    "surf_n": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5494537,
+      48.145715
+     ],
+     [
+      11.5493307,
+      48.1453617
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 180,
+    "a_w_median": 1.4863,
     "n": 3,
-    "crest_max": 4.14,
+    "crest_max": 5.79,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
@@ -3843,186 +3927,18 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5517363,
-      48.1473862
+      11.5492543,
+      48.1451507
      ],
      [
-      11.551407,
-      48.1471527
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 175,
-    "a_w_median": 1.6908,
-    "n": 4,
-    "crest_max": 4.72,
-    "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 8
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.551298,
-      48.1470755
-     ],
-     [
-      11.5508233,
-      48.146867
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 176,
-    "a_w_median": 0.9968,
-    "n": 4,
-    "crest_max": 4.88,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 8
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.550704,
-      48.1467993
-     ],
-     [
-      11.5503263,
-      48.1465922
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 177,
-    "a_w_median": 0.716,
-    "n": 4,
-    "crest_max": 4.5,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 7
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5500103,
-      48.146434
-     ],
-     [
-      11.5497908,
-      48.1463048
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 178,
-    "a_w_median": 0.8974,
-    "n": 4,
-    "crest_max": 4.73,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 8
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5497443,
-      48.1462463
-     ],
-     [
-      11.5495267,
-      48.1459017
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 179,
-    "a_w_median": 0.8658,
-    "n": 5,
-    "crest_max": 4.85,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 10
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5494908,
-      48.1458093
-     ],
-     [
-      11.5494185,
-      48.1456163
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 180,
-    "a_w_median": 2.2371,
-    "n": 3,
-    "crest_max": 5.79,
-    "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 5
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5493307,
-      48.1453617
-     ],
-     [
-      11.5492252,
-      48.145039
+      11.5491905,
+      48.1449285
      ]
     ]
    },
    "properties": {
     "bin_id": 181,
-    "a_w_median": 0.8951,
+    "a_w_median": 0.993,
     "n": 3,
     "crest_max": 5.29,
     "cf_flag": false,
@@ -4030,7 +3946,7 @@
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 5
+    "surf_n": 6
    }
   },
   {
@@ -4039,25 +3955,25 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5491905,
-      48.1449285
+      11.5491562,
+      48.1448225
      ],
      [
-      11.5490488,
-      48.1446158
+      11.5490122,
+      48.1445122
      ]
     ]
    },
    "properties": {
     "bin_id": 182,
-    "a_w_median": 2.3819,
+    "a_w_median": 3.3531,
     "n": 4,
     "crest_max": 4.48,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -4067,8 +3983,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5490122,
-      48.1445122
+      11.5489742,
+      48.1444053
      ],
      [
       11.5488813,
@@ -4078,15 +3994,15 @@
    },
    "properties": {
     "bin_id": 183,
-    "a_w_median": 3.4413,
-    "n": 5,
+    "a_w_median": 3.2939,
+    "n": 4,
     "crest_max": 5.91,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.9,
-    "surf_n": 10
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
+    "surf_n": 8
    }
   },
   {
@@ -4099,22 +4015,22 @@
       48.1437952
      ],
      [
-      11.5487902,
-      48.1437063
+      11.5487825,
+      48.1436283
      ]
     ]
    },
    "properties": {
     "bin_id": 184,
-    "a_w_median": 4.1643,
-    "n": 2,
+    "a_w_median": 4.6429,
+    "n": 3,
     "crest_max": 6.19,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
-    "surf_n": 4
+    "surf_n": 6
    }
   },
   {
@@ -4123,8 +4039,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5487825,
-      48.1436283
+      11.548761,
+      48.1435522
      ],
      [
       11.5486968,
@@ -4134,15 +4050,15 @@
    },
    "properties": {
     "bin_id": 185,
-    "a_w_median": 1.6911,
-    "n": 6,
+    "a_w_median": 1.0534,
+    "n": 5,
     "crest_max": 4.17,
     "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.909,
-    "surf_n": 11
+    "surf_conf": 0.889,
+    "surf_n": 9
    }
   },
   {
@@ -4197,7 +4113,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.941,
+    "surf_conf": 1.0,
     "surf_n": 51
    }
   },
@@ -4211,22 +4127,22 @@
       48.1421988
      ],
      [
-      11.548461,
-      48.1419537
+      11.5484307,
+      48.1418698
      ]
     ]
    },
    "properties": {
     "bin_id": 188,
-    "a_w_median": 0.777,
-    "n": 4,
+    "a_w_median": 0.7854,
+    "n": 5,
     "crest_max": 4.62,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 8
+    "surf_n": 10
    }
   },
   {
@@ -4236,7 +4152,7 @@
     "coordinates": [
      [
       11.5484307,
-      48.1418698
+      48.1417885
      ],
      [
       11.5483967,
@@ -4246,15 +4162,15 @@
    },
    "properties": {
     "bin_id": 189,
-    "a_w_median": 1.0757,
-    "n": 4,
+    "a_w_median": 1.0875,
+    "n": 3,
     "crest_max": 4.13,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_n": 4
    }
   },
   {
@@ -4281,7 +4197,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -4309,7 +4225,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.6,
     "surf_n": 5
    }
   },
@@ -4336,8 +4252,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -4351,22 +4267,22 @@
       48.1400723
      ],
      [
-      11.5475333,
-      48.1398343
+      11.5474397,
+      48.1397555
      ]
     ]
    },
    "properties": {
     "bin_id": 193,
-    "a_w_median": 0.9836,
-    "n": 2,
+    "a_w_median": 1.1863,
+    "n": 3,
     "crest_max": 4.73,
     "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 3
+    "surf_n": 6
    }
   },
   {
@@ -4375,12 +4291,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5474397,
-      48.1397555
+      11.5472723,
+      48.1395747
      ],
      [
-      11.5472482,
-      48.1394727
+      11.547244,
+      48.139369
      ]
     ]
    },
@@ -4388,13 +4304,13 @@
     "bin_id": 194,
     "a_w_median": 0.4892,
     "n": 5,
-    "crest_max": 3.43,
+    "crest_max": 5.54,
     "cf_flag": false,
     "comfort": 2,
     "comfort_color": "#91cf60",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 21
+    "surf_n": 26
    }
   },
   {
@@ -4403,8 +4319,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.547244,
-      48.139369
+      11.547235,
+      48.1393185
      ],
      [
       11.5475667,
@@ -4414,15 +4330,15 @@
    },
    "properties": {
     "bin_id": 195,
-    "a_w_median": 1.4473,
-    "n": 7,
-    "crest_max": 5.54,
+    "a_w_median": 2.2497,
+    "n": 6,
+    "crest_max": 5.45,
     "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
-    "surf_conf": 0.842,
-    "surf_n": 19
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "rough",
+    "surf_conf": 0.545,
+    "surf_n": 11
    }
   },
   {
@@ -4435,22 +4351,22 @@
       48.1390443
      ],
      [
-      11.5478367,
-      48.1390185
+      11.548314,
+      48.1389293
      ]
     ]
    },
    "properties": {
     "bin_id": 196,
-    "a_w_median": 1.0899,
-    "n": 2,
+    "a_w_median": 1.0137,
+    "n": 3,
     "crest_max": 5.11,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 5
+    "surf_n": 6
    }
   },
   {
@@ -4459,20 +4375,160 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.548314,
-      48.1389293
+      11.5484642,
+      48.1389058
      ],
      [
-      11.5487795,
-      48.1388442
+      11.548949,
+      48.1388173
      ]
     ]
    },
    "properties": {
     "bin_id": 197,
-    "a_w_median": 0.9839,
+    "a_w_median": 1.0364,
     "n": 4,
-    "crest_max": 3.59,
+    "crest_max": 4.99,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5491035,
+      48.1388008
+     ],
+     [
+      11.5494895,
+      48.1387732
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 198,
+    "a_w_median": 2.6661,
+    "n": 2,
+    "crest_max": 3.6,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "rough",
+    "surf_conf": 0.5,
+    "surf_n": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.549599,
+      48.1386743
+     ],
+     [
+      11.5496443,
+      48.1383132
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 199,
+    "a_w_median": 1.4211,
+    "n": 4,
+    "crest_max": 4.02,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5496528,
+      48.1381888
+     ],
+     [
+      11.549672,
+      48.1378622
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 200,
+    "a_w_median": 1.1374,
+    "n": 2,
+    "crest_max": 3.19,
+    "cf_flag": false,
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
+    "surf_n": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.549671,
+      48.1377883
+     ],
+     [
+      11.549662,
+      48.1374053
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 201,
+    "a_w_median": 2.4507,
+    "n": 6,
+    "crest_max": 5.26,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "smooth",
+    "surf_conf": 0.667,
+    "surf_n": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5496613,
+      48.137325
+     ],
+     [
+      11.5496023,
+      48.1370032
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 202,
+    "a_w_median": 0.9702,
+    "n": 4,
+    "crest_max": 6.78,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
@@ -4487,166 +4543,26 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.548949,
-      48.1388173
-     ],
-     [
-      11.5494895,
-      48.1387732
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 198,
-    "a_w_median": 2.2784,
-    "n": 3,
-    "crest_max": 4.99,
-    "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 6
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.549599,
-      48.1386743
-     ],
-     [
-      11.5496415,
-      48.138446
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 199,
-    "a_w_median": 1.4812,
-    "n": 3,
-    "crest_max": 4.02,
-    "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 6
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5496443,
-      48.1383132
-     ],
-     [
-      11.5496528,
-      48.1381888
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 200,
-    "a_w_median": 1.3246,
-    "n": 2,
-    "crest_max": 2.83,
-    "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 3
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.549672,
-      48.1378622
-     ],
-     [
-      11.5496673,
-      48.1374903
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 201,
-    "a_w_median": 2.4507,
-    "n": 6,
-    "crest_max": 5.26,
-    "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.917,
-    "surf_n": 12
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.549662,
-      48.1374053
-     ],
-     [
-      11.5496023,
-      48.1370032
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 202,
-    "a_w_median": 0.9869,
-    "n": 5,
-    "crest_max": 6.78,
-    "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 9
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
       11.5493868,
       48.1367028
      ],
      [
-      11.5492593,
-      48.1365888
+      11.549209,
+      48.13654
      ]
     ]
    },
    "properties": {
     "bin_id": 203,
-    "a_w_median": 0.5931,
-    "n": 3,
-    "crest_max": 3.9,
+    "a_w_median": 0.7017,
+    "n": 4,
+    "crest_max": 7.14,
     "cf_flag": false,
-    "comfort": 2,
-    "comfort_color": "#91cf60",
+    "comfort": 3,
+    "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_n": 8
    }
   },
   {
@@ -4655,25 +4571,25 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.549209,
-      48.13654
+      11.5491712,
+      48.136504
      ],
      [
-      11.5494083,
-      48.1362222
+      11.5493725,
+      48.1361487
      ]
     ]
    },
    "properties": {
     "bin_id": 204,
-    "a_w_median": 3.9726,
+    "a_w_median": 3.994,
     "n": 7,
-    "crest_max": 7.14,
+    "crest_max": 6.3,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.976,
+    "surf_conf": 0.78,
     "surf_n": 41
    }
   },
@@ -4683,25 +4599,25 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5493725,
-      48.1361487
+      11.5493823,
+      48.1360843
      ],
      [
-      11.5497042,
-      48.136013
+      11.5498507,
+      48.1359968
      ]
     ]
    },
    "properties": {
     "bin_id": 205,
-    "a_w_median": 2.6547,
+    "a_w_median": 2.2624,
     "n": 5,
     "crest_max": 4.85,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.7,
+    "surf_pred": "moderate",
+    "surf_conf": 0.4,
     "surf_n": 10
    }
   },
@@ -4711,8 +4627,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5498507,
-      48.1359968
+      11.5500083,
+      48.1359815
      ],
      [
       11.5504627,
@@ -4722,15 +4638,15 @@
    },
    "properties": {
     "bin_id": 206,
-    "a_w_median": 1.6005,
-    "n": 5,
+    "a_w_median": 1.474,
+    "n": 4,
     "crest_max": 6.44,
     "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.9,
-    "surf_n": 10
+    "surf_conf": 1.0,
+    "surf_n": 8
    }
   },
   {
@@ -4799,22 +4715,22 @@
       48.1353515
      ],
      [
-      11.5519987,
-      48.135192
+      11.5521198,
+      48.1351175
      ]
     ]
    },
    "properties": {
     "bin_id": 209,
-    "a_w_median": 2.0009,
-    "n": 3,
+    "a_w_median": 1.7047,
+    "n": 4,
     "crest_max": 5.1,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_n": 8
    }
   },
   {
@@ -4823,8 +4739,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5521198,
-      48.1351175
+      11.5522247,
+      48.1350385
      ],
      [
       11.5524357,
@@ -4834,15 +4750,15 @@
    },
    "properties": {
     "bin_id": 210,
-    "a_w_median": 0.9992,
-    "n": 4,
+    "a_w_median": 1.039,
+    "n": 3,
     "crest_max": 4.48,
     "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 8
+    "surf_n": 6
    }
   },
   {
@@ -4855,22 +4771,22 @@
       48.1345517
      ],
      [
-      11.5528208,
-      48.1344498
+      11.5528875,
+      48.1343503
      ]
     ]
    },
    "properties": {
     "bin_id": 211,
-    "a_w_median": 1.4462,
-    "n": 2,
+    "a_w_median": 0.7623,
+    "n": 3,
     "crest_max": 5.34,
     "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
+    "comfort": 3,
+    "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 4
+    "surf_n": 6
    }
   },
   {
@@ -4879,12 +4795,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5528875,
-      48.1343503
+      11.5529557,
+      48.134252
      ],
      [
-      11.5531163,
-      48.1340632
+      11.5532195,
+      48.1339743
      ]
     ]
    },
@@ -4907,18 +4823,18 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5532195,
-      48.1339743
+      11.5533342,
+      48.1339017
      ],
      [
-      11.553493,
-      48.1336752
+      11.55344,
+      48.133568
      ]
     ]
    },
    "properties": {
     "bin_id": 213,
-    "a_w_median": 1.2525,
+    "a_w_median": 1.3265,
     "n": 4,
     "crest_max": 4.24,
     "cf_flag": false,
@@ -4935,8 +4851,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.55344,
-      48.133568
+      11.5534235,
+      48.133456
      ],
      [
       11.5534235,
@@ -4946,15 +4862,15 @@
    },
    "properties": {
     "bin_id": 214,
-    "a_w_median": 0.8527,
-    "n": 2,
+    "a_w_median": 0.7511,
+    "n": 1,
     "crest_max": 3.61,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 4
+    "surf_n": 2
    }
   },
   {
@@ -4995,22 +4911,22 @@
       48.1326453
      ],
      [
-      11.5535458,
-      48.132346
+      11.5535558,
+      48.1322435
      ]
     ]
    },
    "properties": {
     "bin_id": 216,
-    "a_w_median": 0.5501,
-    "n": 3,
-    "crest_max": 3.97,
+    "a_w_median": 0.5935,
+    "n": 4,
+    "crest_max": 4.79,
     "cf_flag": false,
     "comfort": 2,
     "comfort_color": "#91cf60",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 5
+    "surf_n": 7
    }
   },
   {
@@ -5019,18 +4935,18 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5535558,
-      48.1322435
+      11.5535483,
+      48.1321355
      ],
      [
-      11.55357,
-      48.1319143
+      11.5535852,
+      48.131804
      ]
     ]
    },
    "properties": {
     "bin_id": 217,
-    "a_w_median": 0.6064,
+    "a_w_median": 0.5574,
     "n": 4,
     "crest_max": 5.06,
     "cf_flag": false,
@@ -5038,7 +4954,7 @@
     "comfort_color": "#91cf60",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 8
+    "surf_n": 9
    }
   },
   {
@@ -5047,8 +4963,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5535852,
-      48.131804
+      11.5535778,
+      48.1315135
      ],
      [
       11.5535567,
@@ -5058,15 +4974,15 @@
    },
    "properties": {
     "bin_id": 218,
-    "a_w_median": 0.7559,
-    "n": 3,
+    "a_w_median": 0.7656,
+    "n": 2,
     "crest_max": 3.6,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_n": 3
    }
   },
   {
@@ -5107,50 +5023,22 @@
       48.1308557
      ],
      [
-      11.5533987,
-      48.1305605
+      11.553364,
+      48.130455
      ]
     ]
    },
    "properties": {
     "bin_id": 220,
-    "a_w_median": 0.5692,
-    "n": 4,
+    "a_w_median": 0.6376,
+    "n": 5,
     "crest_max": 4.3,
     "cf_flag": false,
-    "comfort": 2,
-    "comfort_color": "#91cf60",
+    "comfort": 3,
+    "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 8
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.553364,
-      48.130455
-     ],
-     [
-      11.553364,
-      48.130455
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 221,
-    "a_w_median": 1.239,
-    "n": 1,
-    "crest_max": 2.98,
-    "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 2
+    "surf_n": 10
    }
   },
   {
@@ -5191,22 +5079,22 @@
       48.1295273
      ],
      [
-      11.5528478,
-      48.1293427
+      11.552698,
+      48.1291717
      ]
     ]
    },
    "properties": {
     "bin_id": 223,
-    "a_w_median": 0.76,
-    "n": 3,
+    "a_w_median": 0.7535,
+    "n": 4,
     "crest_max": 4.23,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_n": 7
    }
   },
   {
@@ -5215,8 +5103,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.552698,
-      48.1291717
+      11.552621,
+      48.1290717
      ],
      [
       11.5525453,
@@ -5226,15 +5114,15 @@
    },
    "properties": {
     "bin_id": 224,
-    "a_w_median": 0.866,
-    "n": 3,
-    "crest_max": 4.04,
+    "a_w_median": 0.9161,
+    "n": 2,
+    "crest_max": 3.71,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_n": 5
    }
   },
   {
@@ -5275,22 +5163,22 @@
       48.1283778
      ],
      [
-      11.5530545,
-      48.1282655
+      11.5532978,
+      48.1281255
      ]
     ]
    },
    "properties": {
     "bin_id": 226,
-    "a_w_median": 1.0913,
-    "n": 3,
-    "crest_max": 4.02,
+    "a_w_median": 1.0066,
+    "n": 4,
+    "crest_max": 6.09,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_n": 7
    }
   },
   {
@@ -5299,26 +5187,26 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5532978,
-      48.1281255
+      11.5534143,
+      48.1280752
      ],
      [
-      11.5537137,
-      48.1279197
+      11.5538007,
+      48.127864
      ]
     ]
    },
    "properties": {
     "bin_id": 227,
-    "a_w_median": 0.8048,
+    "a_w_median": 0.6928,
     "n": 5,
-    "crest_max": 6.09,
+    "crest_max": 5.07,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 9
+    "surf_n": 10
    }
   },
   {
@@ -5327,18 +5215,18 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5538007,
-      48.127864
+      11.5538628,
+      48.1278138
      ],
      [
-      11.553671,
-      48.127549
+      11.553612,
+      48.1274887
      ]
     ]
    },
    "properties": {
     "bin_id": 228,
-    "a_w_median": 0.9052,
+    "a_w_median": 0.9988,
     "n": 6,
     "crest_max": 6.63,
     "cf_flag": false,
@@ -5355,18 +5243,18 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.553612,
-      48.1274887
+      11.5535502,
+      48.1274265
      ],
      [
-      11.5533358,
-      48.1271883
+      11.5532943,
+      48.127126
      ]
     ]
    },
    "properties": {
     "bin_id": 229,
-    "a_w_median": 0.9858,
+    "a_w_median": 0.8973,
     "n": 5,
     "crest_max": 4.27,
     "cf_flag": false,
@@ -5383,8 +5271,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5532943,
-      48.127126
+      11.5532458,
+      48.1270737
      ],
      [
       11.5528975,
@@ -5394,15 +5282,15 @@
    },
    "properties": {
     "bin_id": 230,
-    "a_w_median": 0.5787,
-    "n": 8,
+    "a_w_median": 0.6197,
+    "n": 7,
     "crest_max": 7.22,
     "cf_flag": false,
     "comfort": 2,
     "comfort_color": "#91cf60",
     "surf_pred": "smooth",
-    "surf_conf": 0.955,
-    "surf_n": 22
+    "surf_conf": 1.0,
+    "surf_n": 20
    }
   },
   {
@@ -5415,22 +5303,22 @@
       48.1266968
      ],
      [
-      11.5531773,
-      48.1264918
+      11.5532487,
+      48.1264325
      ]
     ]
    },
    "properties": {
     "bin_id": 231,
-    "a_w_median": 0.9939,
-    "n": 7,
+    "a_w_median": 1.0721,
+    "n": 8,
     "crest_max": 6.92,
     "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.957,
-    "surf_n": 47
+    "surf_conf": 0.959,
+    "surf_n": 49
    }
   },
   {
@@ -5439,12 +5327,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5532487,
-      48.1264325
+      11.5533173,
+      48.1263705
      ],
      [
-      11.5533978,
-      48.1263017
+      11.5536465,
+      48.126071
      ]
     ]
    },
@@ -5456,9 +5344,9 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_pred": "moderate",
+    "surf_conf": 0.8,
+    "surf_n": 5
    }
   },
   {
@@ -5467,8 +5355,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5536465,
-      48.126071
+      11.5537375,
+      48.1259963
      ],
      [
       11.554011,
@@ -5478,15 +5366,15 @@
    },
    "properties": {
     "bin_id": 233,
-    "a_w_median": 1.7817,
-    "n": 5,
+    "a_w_median": 1.8509,
+    "n": 4,
     "crest_max": 5.17,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.889,
-    "surf_n": 9
+    "surf_conf": 0.75,
+    "surf_n": 8
    }
   },
   {
@@ -5513,7 +5401,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.9,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -5527,22 +5415,22 @@
       48.125364
      ],
      [
-      11.554718,
-      48.1252192
+      11.5549717,
+      48.1250632
      ]
     ]
    },
    "properties": {
     "bin_id": 235,
-    "a_w_median": 0.8741,
-    "n": 3,
+    "a_w_median": 1.545,
+    "n": 4,
     "crest_max": 4.42,
     "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 6
+    "surf_conf": 0.571,
+    "surf_n": 7
    }
   },
   {
@@ -5551,8 +5439,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5549717,
-      48.1250632
+      11.5550835,
+      48.1250108
      ],
      [
       11.5554112,
@@ -5562,15 +5450,15 @@
    },
    "properties": {
     "bin_id": 236,
-    "a_w_median": 1.569,
-    "n": 5,
+    "a_w_median": 1.5445,
+    "n": 4,
     "crest_max": 5.2,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
-    "surf_n": 8
+    "surf_conf": 0.857,
+    "surf_n": 7
    }
   },
   {
@@ -5597,7 +5485,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.889,
+    "surf_conf": 1.0,
     "surf_n": 18
    }
   },
@@ -5625,7 +5513,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.857,
     "surf_n": 7
    }
   },
@@ -5652,8 +5540,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -5680,7 +5568,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
     "surf_n": 3
    }
@@ -5708,8 +5596,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -5736,8 +5624,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -5751,22 +5639,22 @@
       48.1230415
      ],
      [
-      11.5586237,
-      48.1230415
+      11.5590388,
+      48.1227762
      ]
     ]
    },
    "properties": {
     "bin_id": 243,
-    "a_w_median": 1.5704,
-    "n": 1,
-    "crest_max": 4.61,
+    "a_w_median": 3.2622,
+    "n": 2,
+    "crest_max": 5.11,
     "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
-    "surf_n": 3
+    "surf_n": 4
    }
   },
   {
@@ -5775,26 +5663,26 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5590388,
-      48.1227762
+      11.5590508,
+      48.1227105
      ],
      [
-      11.5587457,
-      48.1224463
+      11.5586702,
+      48.1223698
      ]
     ]
    },
    "properties": {
     "bin_id": 244,
-    "a_w_median": 1.2313,
+    "a_w_median": 0.7433,
     "n": 5,
-    "crest_max": 5.11,
+    "crest_max": 4.5,
     "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
+    "comfort": 3,
+    "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 9
+    "surf_n": 10
    }
   },
   {
@@ -5803,12 +5691,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5586702,
-      48.1223698
+      11.5585873,
+      48.1222965
      ],
      [
-      11.5583002,
-      48.1220982
+      11.5582047,
+      48.122031
      ]
     ]
    },
@@ -5831,23 +5719,23 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5582047,
-      48.122031
+      11.5581175,
+      48.1219623
      ],
      [
-      11.5578528,
-      48.1217858
+      11.5577725,
+      48.1217342
      ]
     ]
    },
    "properties": {
     "bin_id": 246,
-    "a_w_median": 1.05,
+    "a_w_median": 0.9101,
     "n": 3,
     "crest_max": 4.75,
     "cf_flag": false,
-    "comfort": 4,
-    "comfort_color": "#fc8d59",
+    "comfort": 3,
+    "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
     "surf_n": 5
@@ -5859,18 +5747,18 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5577725,
-      48.1217342
+      11.557699,
+      48.1216778
      ],
      [
-      11.5577672,
-      48.1214325
+      11.5579522,
+      48.1214148
      ]
     ]
    },
    "properties": {
     "bin_id": 247,
-    "a_w_median": 1.2092,
+    "a_w_median": 1.2544,
     "n": 8,
     "crest_max": 4.04,
     "cf_flag": false,
@@ -5887,23 +5775,23 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5579522,
-      48.1214148
+      11.5582092,
+      48.1213832
      ],
      [
-      11.5584317,
-      48.1213557
+      11.5585548,
+      48.1213432
      ]
     ]
    },
    "properties": {
     "bin_id": 248,
-    "a_w_median": 0.9241,
+    "a_w_median": 1.0315,
     "n": 4,
     "crest_max": 3.97,
     "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
     "surf_n": 7
@@ -5915,8 +5803,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5585548,
-      48.1213432
+      11.558699,
+      48.121329
      ],
      [
       11.5591657,
@@ -5926,15 +5814,15 @@
    },
    "properties": {
     "bin_id": 249,
-    "a_w_median": 1.5752,
-    "n": 5,
+    "a_w_median": 1.3671,
+    "n": 4,
     "crest_max": 5.45,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 10
+    "surf_n": 8
    }
   },
   {
@@ -5960,8 +5848,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.75,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 4
    }
   },
@@ -5975,22 +5863,22 @@
       48.121205
      ],
      [
-      11.5604532,
-      48.1211513
+      11.5605627,
+      48.121154
      ]
     ]
    },
    "properties": {
     "bin_id": 251,
-    "a_w_median": 3.7376,
-    "n": 5,
+    "a_w_median": 3.7805,
+    "n": 6,
     "crest_max": 5.81,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
-    "surf_n": 10
+    "surf_n": 12
    }
   },
   {
@@ -5999,8 +5887,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5605627,
-      48.121154
+      11.5606798,
+      48.1211402
      ],
      [
       11.5611023,
@@ -6010,15 +5898,15 @@
    },
    "properties": {
     "bin_id": 252,
-    "a_w_median": 6.0389,
-    "n": 5,
-    "crest_max": 3.79,
+    "a_w_median": 6.1854,
+    "n": 4,
+    "crest_max": 3.65,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.889,
-    "surf_n": 9
+    "surf_conf": 1.0,
+    "surf_n": 7
    }
   },
   {
@@ -6044,8 +5932,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.75,
+    "surf_pred": "rough",
+    "surf_conf": 0.688,
     "surf_n": 16
    }
   },
@@ -6059,22 +5947,22 @@
       48.1210063
      ],
      [
-      11.5630662,
-      48.1209922
+      11.5625077,
+      48.1210063
      ]
     ]
    },
    "properties": {
-    "bin_id": 255,
-    "a_w_median": 2.3437,
-    "n": 4,
-    "crest_max": 5.63,
+    "bin_id": 254,
+    "a_w_median": 2.124,
+    "n": 1,
+    "crest_max": 2.85,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 9
+    "surf_n": 3
    }
   },
   {
@@ -6083,8 +5971,36 @@
     "type": "LineString",
     "coordinates": [
      [
+      11.562648,
+      48.1210015
+     ],
+     [
       11.5631913,
       48.121023
+     ]
+    ]
+   },
+   "properties": {
+    "bin_id": 255,
+    "a_w_median": 2.4829,
+    "n": 4,
+    "crest_max": 5.63,
+    "cf_flag": false,
+    "comfort": 5,
+    "comfort_color": "#d73027",
+    "surf_pred": "moderate",
+    "surf_conf": 0.375,
+    "surf_n": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      11.5632953,
+      48.1210392
      ],
      [
       11.5636383,
@@ -6094,15 +6010,15 @@
    },
    "properties": {
     "bin_id": 256,
-    "a_w_median": 2.1382,
-    "n": 5,
+    "a_w_median": 2.1341,
+    "n": 4,
     "crest_max": 3.68,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "smooth",
     "surf_conf": 0.5,
-    "surf_n": 10
+    "surf_n": 8
    }
   },
   {
@@ -6128,7 +6044,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 0.667,
     "surf_n": 3
    }
@@ -6143,22 +6059,22 @@
       48.1215727
      ],
      [
-      11.5647208,
-      48.1216418
+      11.5649108,
+      48.1217142
      ]
     ]
    },
    "properties": {
     "bin_id": 258,
-    "a_w_median": 1.3685,
-    "n": 2,
-    "crest_max": 3.81,
+    "a_w_median": 1.3215,
+    "n": 3,
+    "crest_max": 6.46,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 4
+    "surf_n": 6
    }
   },
   {
@@ -6167,20 +6083,20 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5649108,
-      48.1217142
+      11.565074,
+      48.1217932
      ],
      [
-      11.5653462,
-      48.1219292
+      11.5654702,
+      48.1219982
      ]
     ]
    },
    "properties": {
     "bin_id": 259,
-    "a_w_median": 1.8443,
+    "a_w_median": 1.8691,
     "n": 4,
-    "crest_max": 6.46,
+    "crest_max": 4.47,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
@@ -6195,12 +6111,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5654702,
-      48.1219982
+      11.5655888,
+      48.122069
      ],
      [
-      11.5659145,
-      48.1222188
+      11.5659978,
+      48.1222545
      ]
     ]
    },
@@ -6213,7 +6129,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -6223,8 +6139,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5659978,
-      48.1222545
+      11.5660663,
+      48.122301
      ],
      [
       11.5664857,
@@ -6234,15 +6150,15 @@
    },
    "properties": {
     "bin_id": 261,
-    "a_w_median": 1.1251,
-    "n": 5,
+    "a_w_median": 1.4948,
+    "n": 4,
     "crest_max": 4.42,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.889,
-    "surf_n": 9
+    "surf_conf": 0.857,
+    "surf_n": 7
    }
   },
   {
@@ -6255,22 +6171,22 @@
       48.1225637
      ],
      [
-      11.5669943,
-      48.1227817
+      11.5670727,
+      48.1228278
      ]
     ]
    },
    "properties": {
     "bin_id": 262,
-    "a_w_median": 1.6968,
-    "n": 5,
+    "a_w_median": 1.5297,
+    "n": 6,
     "crest_max": 5.18,
     "cf_flag": false,
-    "comfort": 5,
-    "comfort_color": "#d73027",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 10
+    "surf_n": 12
    }
   },
   {
@@ -6279,8 +6195,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5670727,
-      48.1228278
+      11.567145,
+      48.1228758
      ],
      [
       11.5673533,
@@ -6290,15 +6206,15 @@
    },
    "properties": {
     "bin_id": 263,
-    "a_w_median": 0.7147,
-    "n": 5,
+    "a_w_median": 0.8395,
+    "n": 4,
     "crest_max": 5.4,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 9
+    "surf_n": 7
    }
   },
   {
@@ -6339,22 +6255,22 @@
       48.1224305
      ],
      [
-      11.5683102,
-      48.1222893
+      11.5685362,
+      48.1221078
      ]
     ]
    },
    "properties": {
     "bin_id": 265,
-    "a_w_median": 0.738,
-    "n": 4,
+    "a_w_median": 0.9086,
+    "n": 5,
     "crest_max": 6.15,
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 8
+    "surf_n": 9
    }
   },
   {
@@ -6363,26 +6279,26 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5685362,
-      48.1221078
+      11.568672,
+      48.1219962
      ],
      [
-      11.5689278,
-      48.1218193
+      11.5690082,
+      48.1217928
      ]
     ]
    },
    "properties": {
     "bin_id": 266,
-    "a_w_median": 0.9764,
+    "a_w_median": 1.007,
     "n": 6,
-    "crest_max": 5.35,
+    "crest_max": 5.52,
     "cf_flag": false,
-    "comfort": 3,
-    "comfort_color": "#fee08b",
+    "comfort": 4,
+    "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
     "surf_conf": 1.0,
-    "surf_n": 10
+    "surf_n": 11
    }
   },
   {
@@ -6391,25 +6307,25 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.5690082,
-      48.1217928
+      11.5690747,
+      48.1217665
      ],
      [
-      11.5693228,
-      48.121755
+      11.569083,
+      48.1218723
      ]
     ]
    },
    "properties": {
     "bin_id": 267,
-    "a_w_median": 1.3757,
+    "a_w_median": 1.2292,
     "n": 5,
     "crest_max": 6.71,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.97,
+    "surf_conf": 1.0,
     "surf_n": 33
    }
   },
@@ -6419,25 +6335,25 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.569083,
-      48.1218723
+      11.5690028,
+      48.1219147
      ],
      [
-      11.5690732,
-      48.1220617
+      11.569178,
+      48.122107
      ]
     ]
    },
    "properties": {
     "bin_id": 268,
-    "a_w_median": 1.4876,
+    "a_w_median": 1.5899,
     "n": 9,
     "crest_max": 5.09,
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.652,
+    "surf_conf": 0.913,
     "surf_n": 23
    }
   },
@@ -6447,54 +6363,26 @@
     "type": "LineString",
     "coordinates": [
      [
-      11.569178,
-      48.122107
+      11.5692567,
+      48.1221495
      ],
      [
-      11.5696478,
-      48.1224072
+      11.569494,
+      48.1222877
      ]
     ]
    },
    "properties": {
     "bin_id": 269,
-    "a_w_median": 3.3804,
-    "n": 9,
-    "crest_max": 5.15,
+    "a_w_median": 3.7025,
+    "n": 4,
+    "crest_max": 4.04,
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
     "surf_conf": 1.0,
-    "surf_n": 20
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      11.5697095,
-      48.1224437
-     ],
-     [
-      11.5698495,
-      48.1225288
-     ]
-    ]
-   },
-   "properties": {
-    "bin_id": 270,
-    "a_w_median": 0.0,
-    "n": 3,
-    "crest_max": 3.37,
-    "cf_flag": false,
-    "comfort": 1,
-    "comfort_color": "#1a9850",
-    "surf_pred": "rough",
-    "surf_conf": 1.0,
-    "surf_n": 5
+    "surf_n": 7
    }
   }
  ]

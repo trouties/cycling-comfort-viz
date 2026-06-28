@@ -5,11 +5,13 @@ const COMFORT_LEGEND = [
   ["#d73027", "5 very/extreme"], ["#9e9e9e", "no data"],
 ];
 
-// ML 路面层(二分类 smooth/rough)颜色:smooth=绿,rough=红,无预测=中性灰(降透明)。
-const SURFACE_COLORS = { smooth: "#1a9850", rough: "#d73027" };
+// ML 路面层(三分类 smooth/moderate/rough)颜色:绿/橙/红,无预测=中性灰(降透明)。
+// 配色与 OSM surface 层(osm_snap.SURFACE_COLORS)一致,跨层语义统一。
+const SURFACE_COLORS = { smooth: "#1a9850", moderate: "#fc8d59", rough: "#d73027" };
 const SURFACE_NULL_COLOR = "#bdbdbd";
 const SURFACE_LEGEND = [
-  ["#1a9850", "smooth"], ["#d73027", "rough"], [SURFACE_NULL_COLOR, "no prediction"],
+  ["#1a9850", "smooth"], ["#fc8d59", "moderate"], ["#d73027", "rough"],
+  [SURFACE_NULL_COLOR, "no prediction"],
 ];
 
 let map, layerControl, charts = [], legendCtrl = null;
@@ -105,11 +107,11 @@ function renderLegend(d) {
       `data-mode="surface">ML surface</button>` +
     `</div>`;
   const body = colorMode === "surface"
-    ? "<b>ML road surface (predicted)</b><br>" +
+    ? "<b>ML road surface roughness (predicted, 3-class)</b><br>" +
       SURFACE_LEGEND.map(([c, t]) => `<i style="background:${c}"></i>${t}`).join("<br>") +
-      `<div class="legend-note">Binary model (smooth vs rough), modest accuracy ` +
-      `(F1-macro ≈ 0.62) — OSM-weak-supervised, treat as a hint, not ground truth. ` +
-      `Baseline rides have no prediction.</div>`
+      `<div class="legend-note">Three-class model (smooth / moderate / rough), ` +
+      `segment-level F1-macro ≈ 0.81 (window-level ≈ 0.65) — a_w-primary weak supervision, ` +
+      `treat as a hint, not ground truth. Baseline rides have no prediction.</div>`
     : "<b>Comfort — vertical Wk a_w (ISO 2631-1)</b><br>" +
       COMFORT_LEGEND.map(([c, t]) => `<i style="background:${c}"></i>${t}`).join("<br>") +
       `<div class="legend-note">ISO 2631-1 reaction scale on frame-mounted vertical Wk a_w · ` +

@@ -25,7 +25,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.849,
+    "surf_conf": 0.724,
     "surf_n": 152
    }
   },
@@ -557,7 +557,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.5,
+    "surf_conf": 1.0,
     "surf_n": 4
    }
   },
@@ -585,7 +585,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.6,
+    "surf_conf": 1.0,
     "surf_n": 10
    }
   },
@@ -613,7 +613,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -725,7 +725,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -752,8 +752,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.8,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 5
    }
   },
@@ -780,8 +780,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.667,
+    "surf_pred": "rough",
+    "surf_conf": 0.556,
     "surf_n": 9
    }
   },
@@ -892,7 +892,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
     "surf_n": 5
    }
@@ -921,7 +921,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.714,
+    "surf_conf": 0.571,
     "surf_n": 7
    }
   },
@@ -948,8 +948,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.625,
+    "surf_pred": "rough",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -976,7 +976,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 8
    }
@@ -1033,7 +1033,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -1060,8 +1060,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.9,
+    "surf_pred": "moderate",
+    "surf_conf": 0.6,
     "surf_n": 10
    }
   },
@@ -1117,7 +1117,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.9,
+    "surf_conf": 0.7,
     "surf_n": 10
    }
   },
@@ -1145,7 +1145,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.889,
     "surf_n": 9
    }
   },
@@ -1201,7 +1201,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -1228,8 +1228,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.625,
     "surf_n": 8
    }
   },
@@ -1256,8 +1256,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.6,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 5
    }
   },
@@ -1285,7 +1285,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -1313,7 +1313,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.7,
     "surf_n": 10
    }
   },
@@ -1341,7 +1341,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.857,
     "surf_n": 7
    }
   },
@@ -1397,7 +1397,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -1424,8 +1424,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.857,
+    "surf_pred": "moderate",
+    "surf_conf": 0.714,
     "surf_n": 7
    }
   },
@@ -1452,8 +1452,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.333,
     "surf_n": 3
    }
   },
@@ -1508,8 +1508,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.9,
+    "surf_pred": "moderate",
+    "surf_conf": 0.6,
     "surf_n": 10
    }
   },
@@ -1536,7 +1536,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 6
    }
@@ -1564,7 +1564,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 5
    }
@@ -1592,7 +1592,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 6
    }
@@ -1620,8 +1620,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.7,
+    "surf_pred": "moderate",
+    "surf_conf": 0.5,
     "surf_n": 10
    }
   },
@@ -1648,8 +1648,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.6,
     "surf_n": 5
    }
   },
@@ -1760,8 +1760,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.5,
     "surf_n": 8
    }
   },
@@ -1788,8 +1788,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.375,
     "surf_n": 8
    }
   },
@@ -1816,8 +1816,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -1873,7 +1873,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -1900,8 +1900,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.625,
     "surf_n": 8
    }
   },
@@ -1929,7 +1929,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.778,
     "surf_n": 9
    }
   },
@@ -2153,7 +2153,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.913,
     "surf_n": 23
    }
   },
@@ -2209,7 +2209,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.8,
     "surf_n": 5
    }
   },
@@ -2237,7 +2237,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -2265,7 +2265,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.5,
     "surf_n": 4
    }
   },
@@ -2461,7 +2461,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -2488,8 +2488,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.667,
     "surf_n": 3
    }
   },
@@ -2572,8 +2572,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.667,
+    "surf_pred": "moderate",
+    "surf_conf": 0.778,
     "surf_n": 9
    }
   },
@@ -2657,7 +2657,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.714,
+    "surf_conf": 0.857,
     "surf_n": 7
    }
   },
@@ -2740,8 +2740,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -2768,7 +2768,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
     "surf_n": 2
    }
@@ -2796,8 +2796,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.833,
     "surf_n": 6
    }
   },
@@ -2909,7 +2909,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.948,
+    "surf_conf": 0.909,
     "surf_n": 77
    }
   },
@@ -2992,8 +2992,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.5,
     "surf_n": 6
    }
   },
@@ -3049,7 +3049,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -3693,7 +3693,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.933,
+    "surf_conf": 0.973,
     "surf_n": 75
    }
   },
@@ -3776,8 +3776,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.889,
+    "surf_pred": "moderate",
+    "surf_conf": 0.667,
     "surf_n": 9
    }
   },
@@ -3805,7 +3805,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.889,
+    "surf_conf": 0.778,
     "surf_n": 9
    }
   },
@@ -3832,7 +3832,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 1
    }
@@ -3861,7 +3861,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -3916,8 +3916,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.75,
+    "surf_pred": "rough",
+    "surf_conf": 0.5,
     "surf_n": 4
    }
   },
@@ -3944,7 +3944,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
     "surf_n": 8
    }
@@ -3973,7 +3973,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.833,
     "surf_n": 6
    }
   },
@@ -4001,7 +4001,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -4140,8 +4140,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -4225,7 +4225,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.6,
+    "surf_conf": 0.7,
     "surf_n": 10
    }
   },
@@ -4252,8 +4252,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -4309,7 +4309,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.682,
+    "surf_conf": 0.727,
     "surf_n": 22
    }
   },
@@ -4337,7 +4337,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.818,
+    "surf_conf": 1.0,
     "surf_n": 11
    }
   },
@@ -4392,7 +4392,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 5
    }
@@ -4421,7 +4421,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.667,
+    "surf_conf": 1.0,
     "surf_n": 3
    }
   },
@@ -4476,8 +4476,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.8,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 5
    }
   },
@@ -4505,7 +4505,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 4
    }
   },
@@ -4533,7 +4533,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.5,
     "surf_n": 8
    }
   },
@@ -4560,8 +4560,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.778,
+    "surf_pred": "rough",
+    "surf_conf": 0.667,
     "surf_n": 9
    }
   },
@@ -4673,7 +4673,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -4701,7 +4701,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.773,
+    "surf_conf": 0.864,
     "surf_n": 22
    }
   },
@@ -4785,7 +4785,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.6,
+    "surf_conf": 1.0,
     "surf_n": 5
    }
   },
@@ -4812,8 +4812,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.667,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -4840,8 +4840,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -4868,8 +4868,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -4897,7 +4897,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.667,
+    "surf_conf": 1.0,
     "surf_n": 3
    }
   },
@@ -4924,8 +4924,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.5,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -5009,7 +5009,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.5,
+    "surf_conf": 1.0,
     "surf_n": 4
    }
   },
@@ -5065,7 +5065,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.875,
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -5149,7 +5149,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -5176,8 +5176,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_pred": "moderate",
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -5232,8 +5232,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.875,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -5260,8 +5260,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.75,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -5709,7 +5709,7 @@
     "comfort": 2,
     "comfort_color": "#91cf60",
     "surf_pred": "smooth",
-    "surf_conf": 0.652,
+    "surf_conf": 1.0,
     "surf_n": 23
    }
   },
@@ -5736,8 +5736,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.696,
+    "surf_pred": "smooth",
+    "surf_conf": 0.935,
     "surf_n": 92
    }
   },
@@ -5764,7 +5764,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 11
    }
@@ -5792,8 +5792,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.957,
+    "surf_pred": "moderate",
+    "surf_conf": 0.826,
     "surf_n": 23
    }
   },
@@ -5820,7 +5820,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "smooth",
     "surf_conf": 0.636,
     "surf_n": 11
    }
@@ -5904,7 +5904,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 0.667,
     "surf_n": 6
    }
@@ -5933,7 +5933,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.828,
+    "surf_conf": 0.69,
     "surf_n": 29
    }
   },
@@ -5961,7 +5961,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.768,
+    "surf_conf": 0.911,
     "surf_n": 56
    }
   },
@@ -5989,7 +5989,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_conf": 0.923,
     "surf_n": 13
    }
   },
@@ -6017,7 +6017,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_conf": 0.6,
     "surf_n": 10
    }
   },
@@ -6045,7 +6045,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.846,
+    "surf_conf": 0.538,
     "surf_n": 13
    }
   },
@@ -6157,7 +6157,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.889,
+    "surf_conf": 1.0,
     "surf_n": 9
    }
   },
@@ -6185,7 +6185,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.562,
+    "surf_conf": 0.688,
     "surf_n": 16
    }
   },
@@ -6213,7 +6213,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.609,
+    "surf_conf": 0.87,
     "surf_n": 23
    }
   },
@@ -6240,7 +6240,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 0.8,
     "surf_n": 5
    }
@@ -6268,7 +6268,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 0.875,
     "surf_n": 8
    }
@@ -6297,7 +6297,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.727,
+    "surf_conf": 0.636,
     "surf_n": 11
    }
   },
@@ -6325,7 +6325,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_conf": 0.8,
     "surf_n": 5
    }
   },
@@ -6353,7 +6353,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -6380,7 +6380,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 8
    }
@@ -6408,7 +6408,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 3
    }
@@ -6436,8 +6436,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.625,
+    "surf_pred": "moderate",
+    "surf_conf": 0.5,
     "surf_n": 8
    }
   },
@@ -6464,8 +6464,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.545,
+    "surf_pred": "smooth",
+    "surf_conf": 0.818,
     "surf_n": 11
    }
   },
@@ -6493,7 +6493,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.788,
+    "surf_conf": 1.0,
     "surf_n": 33
    }
   },
@@ -6605,7 +6605,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.875,
+    "surf_conf": 0.5,
     "surf_n": 8
    }
   },
@@ -6632,7 +6632,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 6
    }
@@ -6660,7 +6660,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 7
    }
@@ -6688,7 +6688,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 8
    }
@@ -6716,7 +6716,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 8
    }
@@ -6744,7 +6744,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 3
    }
@@ -6772,7 +6772,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 7
    }
@@ -6800,7 +6800,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 8
    }
@@ -6828,7 +6828,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 6
    }
@@ -6856,7 +6856,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 8
    }
@@ -6884,7 +6884,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 6
    }
@@ -6912,8 +6912,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.889,
     "surf_n": 9
    }
   },
@@ -6940,8 +6940,8 @@
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
-    "surf_pred": "rough",
-    "surf_conf": 0.833,
+    "surf_pred": "smooth",
+    "surf_conf": 0.958,
     "surf_n": 24
    }
   },
@@ -6968,8 +6968,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.579,
     "surf_n": 19
    }
   },
@@ -6997,7 +6997,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.786,
+    "surf_conf": 0.714,
     "surf_n": 14
    }
   },
@@ -7025,7 +7025,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.88,
+    "surf_conf": 0.8,
     "surf_n": 50
    }
   },
@@ -7053,7 +7053,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.909,
     "surf_n": 11
    }
   },
@@ -7109,7 +7109,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.714,
     "surf_n": 7
    }
   },
@@ -7136,8 +7136,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.667,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -7192,8 +7192,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.75,
     "surf_n": 4
    }
   },
@@ -7220,8 +7220,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.5,
+    "surf_pred": "moderate",
+    "surf_conf": 0.75,
     "surf_n": 4
    }
   },
@@ -7305,7 +7305,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.571,
     "surf_n": 7
    }
   },
@@ -7332,7 +7332,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 8
    }
@@ -7360,8 +7360,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -7445,7 +7445,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -7473,7 +7473,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 4
    }
   },
@@ -7697,7 +7697,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.667,
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -7725,7 +7725,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.969,
+    "surf_conf": 1.0,
     "surf_n": 65
    }
   },
@@ -7893,7 +7893,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.5,
     "surf_n": 4
    }
   },
@@ -7976,8 +7976,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.7,
+    "surf_pred": "rough",
+    "surf_conf": 0.6,
     "surf_n": 10
    }
   },
@@ -8005,7 +8005,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.923,
+    "surf_conf": 1.0,
     "surf_n": 13
    }
   },
@@ -8032,7 +8032,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 3
    }
@@ -8060,8 +8060,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -8088,8 +8088,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -8144,8 +8144,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.545,
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
     "surf_n": 11
    }
   },
@@ -8201,7 +8201,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -8285,7 +8285,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.95,
     "surf_n": 20
    }
   },
@@ -8369,7 +8369,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.765,
+    "surf_conf": 0.706,
     "surf_n": 17
    }
   },
@@ -8397,7 +8397,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.75,
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -8424,8 +8424,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.875,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -8481,7 +8481,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.714,
+    "surf_conf": 0.571,
     "surf_n": 7
    }
   },
@@ -8508,8 +8508,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.8,
+    "surf_pred": "rough",
+    "surf_conf": 0.6,
     "surf_n": 10
    }
   },
@@ -8536,8 +8536,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.4,
     "surf_n": 5
    }
   },
@@ -8677,7 +8677,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.917,
     "surf_n": 12
    }
   },
@@ -8705,7 +8705,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.846,
+    "surf_conf": 0.923,
     "surf_n": 13
    }
   },
@@ -8789,7 +8789,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -8873,7 +8873,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 0.667,
+    "surf_conf": 0.778,
     "surf_n": 9
    }
   },
@@ -8900,8 +8900,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.957,
+    "surf_pred": "rough",
+    "surf_conf": 0.935,
     "surf_n": 46
    }
   },
@@ -8928,8 +8928,8 @@
     "cf_flag": false,
     "comfort": 3,
     "comfort_color": "#fee08b",
-    "surf_pred": "smooth",
-    "surf_conf": 0.938,
+    "surf_pred": "rough",
+    "surf_conf": 0.854,
     "surf_n": 48
    }
   },
@@ -9013,7 +9013,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.6,
     "surf_n": 10
    }
   },
@@ -9096,8 +9096,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.727,
+    "surf_pred": "rough",
+    "surf_conf": 0.364,
     "surf_n": 11
    }
   },
@@ -9124,8 +9124,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.5,
+    "surf_pred": "rough",
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -9152,8 +9152,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.5,
     "surf_n": 8
    }
   },
@@ -9180,8 +9180,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.7,
+    "surf_pred": "moderate",
+    "surf_conf": 1.0,
     "surf_n": 10
    }
   },
@@ -9264,8 +9264,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_pred": "rough",
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -9292,7 +9292,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
     "surf_n": 7
    }
@@ -9320,8 +9320,8 @@
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.5,
     "surf_n": 4
    }
   },
@@ -9348,8 +9348,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_pred": "moderate",
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -9376,8 +9376,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.714,
     "surf_n": 7
    }
   },
@@ -9404,7 +9404,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
     "surf_n": 4
    }
@@ -9432,7 +9432,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
+    "surf_pred": "rough",
     "surf_conf": 1.0,
     "surf_n": 7
    }
@@ -9460,8 +9460,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_pred": "rough",
+    "surf_conf": 0.583,
     "surf_n": 12
    }
   },
@@ -9517,7 +9517,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.875,
+    "surf_conf": 0.844,
     "surf_n": 32
    }
   },
@@ -9629,7 +9629,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -9657,7 +9657,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.667,
+    "surf_conf": 0.444,
     "surf_n": 9
    }
   },
@@ -9937,7 +9937,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.7,
+    "surf_conf": 0.6,
     "surf_n": 10
    }
   },
@@ -10049,7 +10049,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.9,
     "surf_n": 10
    }
   },
@@ -10189,7 +10189,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.833,
     "surf_n": 6
    }
   },
@@ -10217,7 +10217,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.971,
+    "surf_conf": 1.0,
     "surf_n": 35
    }
   },
@@ -10301,7 +10301,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.538,
+    "surf_conf": 0.385,
     "surf_n": 13
    }
   },
@@ -10328,7 +10328,7 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
+    "surf_pred": "moderate",
     "surf_conf": 1.0,
     "surf_n": 5
    }
@@ -10357,7 +10357,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "rough",
-    "surf_conf": 1.0,
+    "surf_conf": 0.833,
     "surf_n": 12
    }
   },
@@ -10412,8 +10412,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.667,
+    "surf_pred": "smooth",
+    "surf_conf": 0.75,
     "surf_n": 12
    }
   },
@@ -10468,8 +10468,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.625,
+    "surf_pred": "moderate",
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -10497,7 +10497,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.875,
+    "surf_conf": 0.625,
     "surf_n": 8
    }
   },
@@ -10524,8 +10524,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "moderate",
+    "surf_conf": 0.5,
     "surf_n": 6
    }
   },
@@ -10553,7 +10553,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.778,
     "surf_n": 9
    }
   },
@@ -10609,7 +10609,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -10637,7 +10637,7 @@
     "comfort": 2,
     "comfort_color": "#91cf60",
     "surf_pred": "smooth",
-    "surf_conf": 0.889,
+    "surf_conf": 1.0,
     "surf_n": 9
    }
   },
@@ -10664,8 +10664,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.714,
+    "surf_pred": "smooth",
+    "surf_conf": 1.0,
     "surf_n": 7
    }
   },
@@ -10693,7 +10693,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -10777,7 +10777,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.952,
+    "surf_conf": 0.905,
     "surf_n": 21
    }
   },
@@ -10805,7 +10805,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.826,
+    "surf_conf": 0.87,
     "surf_n": 23
    }
   },
@@ -10861,7 +10861,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.6,
     "surf_n": 5
    }
   },
@@ -11029,7 +11029,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.857,
     "surf_n": 7
    }
   },
@@ -11085,7 +11085,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -11197,7 +11197,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.889,
+    "surf_conf": 0.778,
     "surf_n": 9
    }
   },
@@ -11224,8 +11224,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.7,
+    "surf_pred": "smooth",
+    "surf_conf": 0.5,
     "surf_n": 10
    }
   },
@@ -11252,8 +11252,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.833,
+    "surf_pred": "moderate",
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -11281,7 +11281,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.667,
+    "surf_conf": 1.0,
     "surf_n": 9
    }
   },
@@ -11309,7 +11309,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -11337,7 +11337,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.6,
+    "surf_conf": 0.8,
     "surf_n": 5
    }
   },
@@ -11364,8 +11364,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.6,
+    "surf_pred": "rough",
+    "surf_conf": 0.4,
     "surf_n": 5
    }
   },
@@ -11392,8 +11392,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.625,
+    "surf_pred": "moderate",
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -11420,8 +11420,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "rough",
-    "surf_conf": 0.6,
+    "surf_pred": "moderate",
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -11477,7 +11477,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.75,
+    "surf_conf": 1.0,
     "surf_n": 8
    }
   },
@@ -11589,7 +11589,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.9,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -11616,8 +11616,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 0.571,
+    "surf_pred": "rough",
+    "surf_conf": 1.0,
     "surf_n": 7
    }
   },
@@ -11644,8 +11644,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -11673,7 +11673,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -11729,7 +11729,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.833,
+    "surf_conf": 1.0,
     "surf_n": 6
    }
   },
@@ -11813,7 +11813,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.9,
+    "surf_conf": 0.7,
     "surf_n": 10
    }
   },
@@ -11841,7 +11841,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.8,
+    "surf_conf": 0.5,
     "surf_n": 10
    }
   },
@@ -11869,7 +11869,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 4
    }
   },
@@ -11981,7 +11981,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.75,
     "surf_n": 8
    }
   },
@@ -12065,7 +12065,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.9,
+    "surf_conf": 0.8,
     "surf_n": 10
    }
   },
@@ -12093,7 +12093,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_conf": 0.875,
     "surf_n": 8
    }
   },
@@ -12260,8 +12260,8 @@
     "cf_flag": false,
     "comfort": 5,
     "comfort_color": "#d73027",
-    "surf_pred": "smooth",
-    "surf_conf": 1.0,
+    "surf_pred": "rough",
+    "surf_conf": 0.667,
     "surf_n": 6
    }
   },
@@ -12849,7 +12849,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.7,
+    "surf_conf": 0.6,
     "surf_n": 10
    }
   },
@@ -12932,8 +12932,8 @@
     "cf_flag": false,
     "comfort": 4,
     "comfort_color": "#fc8d59",
-    "surf_pred": "rough",
-    "surf_conf": 0.864,
+    "surf_pred": "smooth",
+    "surf_conf": 0.966,
     "surf_n": 59
    }
   },
@@ -12961,7 +12961,7 @@
     "comfort": 4,
     "comfort_color": "#fc8d59",
     "surf_pred": "smooth",
-    "surf_conf": 0.52,
+    "surf_conf": 0.92,
     "surf_n": 25
    }
   },
@@ -13017,7 +13017,7 @@
     "comfort": 5,
     "comfort_color": "#d73027",
     "surf_pred": "smooth",
-    "surf_conf": 0.778,
+    "surf_conf": 0.889,
     "surf_n": 9
    }
   },
@@ -13073,7 +13073,7 @@
     "comfort": 3,
     "comfort_color": "#fee08b",
     "surf_pred": "smooth",
-    "surf_conf": 0.708,
+    "surf_conf": 1.0,
     "surf_n": 24
    }
   }
